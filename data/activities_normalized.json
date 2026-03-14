@@ -39544,5 +39544,44 @@
     "start_date_local": "2026-03-08T15:37:05Z",
     "type": "Yoga",
     "year": 2026
+  },
+  {
+    "date": "2026-03-13",
+    "distance": 37696.9,
+    "elevation_gain": 0.0,
+    "id": "17710719130",
+    "moving_time": 4501.0,
+    "name": "SMART - Lucy in the Sky with Diamonds - 75",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-03-13T17:58:41Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-13",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17710869376",
+    "moving_time": 362.0,
+    "name": "Evening Yoga",
+    "raw_activity_type": "Yoga",
+    "raw_type": "Yoga",
+    "start_date_local": "2026-03-13T19:22:39Z",
+    "type": "Yoga",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-13",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17710869401",
+    "moving_time": 1338.0,
+    "name": "Morning Yoga",
+    "raw_activity_type": "Yoga",
+    "raw_type": "Yoga",
+    "start_date_local": "2026-03-13T09:09:10Z",
+    "type": "Yoga",
+    "year": 2026
   }
 ]

@@ -27377,6 +27377,33 @@
       "type": "Yoga",
       "url": "https://www.strava.com/activities/17649830786",
       "year": 2026
+    },
+    {
+      "date": "2026-03-13",
+      "hour": 17,
+      "name": "SMART - Lucy in the Sky with Diamonds - 75",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17710719130",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-13",
+      "hour": 19,
+      "name": "Evening Yoga",
+      "subtype": "Yoga",
+      "type": "Yoga",
+      "url": "https://www.strava.com/activities/17710869376",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-13",
+      "hour": 9,
+      "name": "Morning Yoga",
+      "subtype": "Yoga",
+      "type": "Yoga",
+      "url": "https://www.strava.com/activities/17710869401",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -44186,6 +44213,15 @@
           "distance": 89499.5,
           "elevation_gain": 0.0,
           "moving_time": 12982.0
+        },
+        "2026-03-13": {
+          "activity_ids": [
+            "17710719130"
+          ],
+          "count": 1,
+          "distance": 37696.9,
+          "elevation_gain": 0.0,
+          "moving_time": 4501.0
         }
       },
       "VirtualRide": {
@@ -44763,11 +44799,21 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 976.0
+        },
+        "2026-03-13": {
+          "activity_ids": [
+            "17710869376",
+            "17710869401"
+          ],
+          "count": 2,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1700.0
         }
       }
     }
   },
-  "generated_at": "2026-03-13T15:21:36.547528+00:00",
+  "generated_at": "2026-03-14T15:12:04.195496+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/14768533",
   "repo": "ebowman/git-sweaty",
