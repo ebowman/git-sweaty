@@ -27404,6 +27404,33 @@
       "type": "Yoga",
       "url": "https://www.strava.com/activities/17710869401",
       "year": 2026
+    },
+    {
+      "date": "2026-03-14",
+      "hour": 15,
+      "name": "ROUVY - Mont Ventoux from Bedoin | France",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17722291190",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-14",
+      "hour": 18,
+      "name": "Evening Yoga",
+      "subtype": "Yoga",
+      "type": "Yoga",
+      "url": "https://www.strava.com/activities/17722480923",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-15",
+      "hour": 14,
+      "name": "Easy Pure Endurance Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17731643391",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -44222,6 +44249,15 @@
           "distance": 37696.9,
           "elevation_gain": 0.0,
           "moving_time": 4501.0
+        },
+        "2026-03-15": {
+          "activity_ids": [
+            "17731643391"
+          ],
+          "count": 1,
+          "distance": 794.3,
+          "elevation_gain": 0.0,
+          "moving_time": 175.0
         }
       },
       "VirtualRide": {
@@ -44280,6 +44316,15 @@
           "distance": 15081.8,
           "elevation_gain": 1042.0,
           "moving_time": 5780.0
+        },
+        "2026-03-14": {
+          "activity_ids": [
+            "17722291190"
+          ],
+          "count": 1,
+          "distance": 31151.1,
+          "elevation_gain": 1606.0,
+          "moving_time": 10244.0
         }
       },
       "Walk": {
@@ -44809,11 +44854,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 1700.0
+        },
+        "2026-03-14": {
+          "activity_ids": [
+            "17722480923"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 619.0
         }
       }
     }
   },
-  "generated_at": "2026-03-14T15:12:04.195496+00:00",
+  "generated_at": "2026-03-15T15:12:48.229685+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/14768533",
   "repo": "ebowman/git-sweaty",
