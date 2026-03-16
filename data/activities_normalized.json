@@ -39622,5 +39622,44 @@
     "start_date_local": "2026-03-15T14:34:49Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-03-15",
+    "distance": 51272.7,
+    "elevation_gain": 125.0,
+    "id": "17733728747",
+    "moving_time": 7526.0,
+    "name": "Moderate Mixed GC Specialist Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-03-15T14:44:28Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-16",
+    "distance": 26157.1,
+    "elevation_gain": 0.0,
+    "id": "17739534960",
+    "moving_time": 4109.0,
+    "name": "It Takes Two 90%",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-03-16T08:40:15Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-16",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17739623904",
+    "moving_time": 607.0,
+    "name": "Morning Yoga",
+    "raw_activity_type": "Yoga",
+    "raw_type": "Yoga",
+    "start_date_local": "2026-03-16T09:51:11Z",
+    "type": "Yoga",
+    "year": 2026
   }
 ]
