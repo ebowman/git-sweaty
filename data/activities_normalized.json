@@ -39661,5 +39661,31 @@
     "start_date_local": "2026-03-16T09:51:11Z",
     "type": "Yoga",
     "year": 2026
+  },
+  {
+    "date": "2026-03-17",
+    "distance": 38704.9,
+    "elevation_gain": 0.0,
+    "id": "17750854914",
+    "moving_time": 5399.0,
+    "name": "Steady As She Goes",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-03-17T07:49:30Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-17",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17751221530",
+    "moving_time": 806.0,
+    "name": "Morning Yoga",
+    "raw_activity_type": "Yoga",
+    "raw_type": "Yoga",
+    "start_date_local": "2026-03-17T09:22:48Z",
+    "type": "Yoga",
+    "year": 2026
   }
 ]

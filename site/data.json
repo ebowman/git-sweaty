@@ -27458,6 +27458,24 @@
       "type": "Yoga",
       "url": "https://www.strava.com/activities/17739623904",
       "year": 2026
+    },
+    {
+      "date": "2026-03-17",
+      "hour": 7,
+      "name": "Steady As She Goes",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17750854914",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-17",
+      "hour": 9,
+      "name": "Morning Yoga",
+      "subtype": "Yoga",
+      "type": "Yoga",
+      "url": "https://www.strava.com/activities/17751221530",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -44295,6 +44313,15 @@
           "distance": 26157.1,
           "elevation_gain": 0.0,
           "moving_time": 4109.0
+        },
+        "2026-03-17": {
+          "activity_ids": [
+            "17750854914"
+          ],
+          "count": 1,
+          "distance": 38704.9,
+          "elevation_gain": 0.0,
+          "moving_time": 5399.0
         }
       },
       "VirtualRide": {
@@ -44909,11 +44936,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 607.0
+        },
+        "2026-03-17": {
+          "activity_ids": [
+            "17751221530"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 806.0
         }
       }
     }
   },
-  "generated_at": "2026-03-16T15:30:16.677872+00:00",
+  "generated_at": "2026-03-17T15:29:42.023307+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/14768533",
   "repo": "ebowman/git-sweaty",
