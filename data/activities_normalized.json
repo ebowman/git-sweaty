@@ -39687,5 +39687,18 @@
     "start_date_local": "2026-03-17T09:22:48Z",
     "type": "Yoga",
     "year": 2026
+  },
+  {
+    "date": "2026-03-18",
+    "distance": 34695.8,
+    "elevation_gain": 0.0,
+    "id": "17763683170",
+    "moving_time": 5045.0,
+    "name": "Cheung - Don't Look Back in Anger",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-03-18T08:15:45Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
