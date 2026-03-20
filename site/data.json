@@ -27485,6 +27485,42 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/17763683170",
       "year": 2026
+    },
+    {
+      "date": "2026-03-19",
+      "hour": 19,
+      "name": "SMART - Welcome to the Jungle - 45",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17782947921",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-19",
+      "hour": 20,
+      "name": "Evening Yoga",
+      "subtype": "Yoga",
+      "type": "Yoga",
+      "url": "https://www.strava.com/activities/17783749576",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-20",
+      "hour": 8,
+      "name": "It Takes Two 90%",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17788254433",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-20",
+      "hour": 9,
+      "name": "Morning Yoga",
+      "subtype": "Yoga",
+      "type": "Yoga",
+      "url": "https://www.strava.com/activities/17788679522",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -44340,6 +44376,24 @@
           "distance": 34695.8,
           "elevation_gain": 0.0,
           "moving_time": 5045.0
+        },
+        "2026-03-19": {
+          "activity_ids": [
+            "17782947921"
+          ],
+          "count": 1,
+          "distance": 18096.4,
+          "elevation_gain": 0.0,
+          "moving_time": 2701.0
+        },
+        "2026-03-20": {
+          "activity_ids": [
+            "17788254433"
+          ],
+          "count": 1,
+          "distance": 29820.4,
+          "elevation_gain": 0.0,
+          "moving_time": 4080.0
         }
       },
       "VirtualRide": {
@@ -44963,11 +45017,29 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 806.0
+        },
+        "2026-03-19": {
+          "activity_ids": [
+            "17783749576"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 603.0
+        },
+        "2026-03-20": {
+          "activity_ids": [
+            "17788679522"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 616.0
         }
       }
     }
   },
-  "generated_at": "2026-03-19T15:22:37.157749+00:00",
+  "generated_at": "2026-03-20T15:21:30.381750+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/14768533",
   "repo": "ebowman/git-sweaty",

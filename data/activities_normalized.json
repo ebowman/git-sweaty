@@ -39700,5 +39700,57 @@
     "start_date_local": "2026-03-18T08:15:45Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-03-19",
+    "distance": 18096.4,
+    "elevation_gain": 0.0,
+    "id": "17782947921",
+    "moving_time": 2701.0,
+    "name": "SMART - Welcome to the Jungle - 45",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-03-19T19:20:57Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-19",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17783749576",
+    "moving_time": 603.0,
+    "name": "Evening Yoga",
+    "raw_activity_type": "Yoga",
+    "raw_type": "Yoga",
+    "start_date_local": "2026-03-19T20:10:29Z",
+    "type": "Yoga",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-20",
+    "distance": 29820.4,
+    "elevation_gain": 0.0,
+    "id": "17788254433",
+    "moving_time": 4080.0,
+    "name": "It Takes Two 90%",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-03-20T08:28:33Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-20",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17788679522",
+    "moving_time": 616.0,
+    "name": "Morning Yoga",
+    "raw_activity_type": "Yoga",
+    "raw_type": "Yoga",
+    "start_date_local": "2026-03-20T09:39:22Z",
+    "type": "Yoga",
+    "year": 2026
   }
 ]
