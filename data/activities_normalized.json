@@ -39752,5 +39752,31 @@
     "start_date_local": "2026-03-20T09:39:22Z",
     "type": "Yoga",
     "year": 2026
+  },
+  {
+    "date": "2026-03-21",
+    "distance": 34612.6,
+    "elevation_gain": 0.0,
+    "id": "17801354771",
+    "moving_time": 5103.0,
+    "name": "SMART - Closer 200",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-03-21T11:06:06Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-21",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17801649207",
+    "moving_time": 830.0,
+    "name": "Lunch Yoga",
+    "raw_activity_type": "Yoga",
+    "raw_type": "Yoga",
+    "start_date_local": "2026-03-21T12:37:22Z",
+    "type": "Yoga",
+    "year": 2026
   }
 ]
