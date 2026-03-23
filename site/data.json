@@ -27548,6 +27548,24 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/17808941611",
       "year": 2026
+    },
+    {
+      "date": "2026-03-22",
+      "hour": 18,
+      "name": "Evening Yoga",
+      "subtype": "Yoga",
+      "type": "Yoga",
+      "url": "https://www.strava.com/activities/17819554397",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-22",
+      "hour": 15,
+      "name": "Auto Generated Workout",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17827772372",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -44430,6 +44448,15 @@
           "distance": 34612.6,
           "elevation_gain": 0.0,
           "moving_time": 5103.0
+        },
+        "2026-03-22": {
+          "activity_ids": [
+            "17827772372"
+          ],
+          "count": 1,
+          "distance": 60309.2,
+          "elevation_gain": 0.0,
+          "moving_time": 9996.0
         }
       },
       "VirtualRide": {
@@ -45089,11 +45116,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 830.0
+        },
+        "2026-03-22": {
+          "activity_ids": [
+            "17819554397"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 737.0
         }
       }
     }
   },
-  "generated_at": "2026-03-22T15:10:39.155831+00:00",
+  "generated_at": "2026-03-23T15:28:18.058454+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/14768533",
   "repo": "ebowman/git-sweaty",
