@@ -27584,6 +27584,33 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/17837971649",
       "year": 2026
+    },
+    {
+      "date": "2026-03-24",
+      "hour": 11,
+      "name": "Lunch Yoga",
+      "subtype": "Yoga",
+      "type": "Yoga",
+      "url": "https://www.strava.com/activities/17856848920",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-25",
+      "hour": 18,
+      "name": "Steady As She Goes",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17856606823",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-25",
+      "hour": 19,
+      "name": "Evening Yoga",
+      "subtype": "Yoga",
+      "type": "Yoga",
+      "url": "https://www.strava.com/activities/17856848753",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -44484,6 +44511,15 @@
           "distance": 28466.7,
           "elevation_gain": 0.0,
           "moving_time": 4080.0
+        },
+        "2026-03-25": {
+          "activity_ids": [
+            "17856606823"
+          ],
+          "count": 1,
+          "distance": 40655.2,
+          "elevation_gain": 0.0,
+          "moving_time": 5401.0
         }
       },
       "VirtualRide": {
@@ -45161,11 +45197,29 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 737.0
+        },
+        "2026-03-24": {
+          "activity_ids": [
+            "17856848920"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 618.0
+        },
+        "2026-03-25": {
+          "activity_ids": [
+            "17856848753"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 686.0
         }
       }
     }
   },
-  "generated_at": "2026-03-25T15:32:35.574622+00:00",
+  "generated_at": "2026-03-26T15:35:09.622618+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/14768533",
   "repo": "ebowman/git-sweaty",
