@@ -27577,6 +27577,15 @@
       "year": 2026
     },
     {
+      "date": "2026-03-23",
+      "hour": 18,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17878626037",
+      "year": 2026
+    },
+    {
       "date": "2026-03-24",
       "hour": 9,
       "name": "It Takes Two 90%",
@@ -27610,6 +27619,42 @@
       "subtype": "Yoga",
       "type": "Yoga",
       "url": "https://www.strava.com/activities/17856848753",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-27",
+      "hour": 17,
+      "name": "Steady As She Goes",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17879660237",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-27",
+      "hour": 17,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17879698836",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-27",
+      "hour": 19,
+      "name": "Evening Yoga",
+      "subtype": "Yoga",
+      "type": "Yoga",
+      "url": "https://www.strava.com/activities/17880075094",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-28",
+      "hour": 13,
+      "name": "Don\u2019t forget to charge the Di2 periodically\u2026",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17888010682",
       "year": 2026
     }
   ],
@@ -44503,6 +44548,15 @@
           "elevation_gain": 0.0,
           "moving_time": 9996.0
         },
+        "2026-03-23": {
+          "activity_ids": [
+            "17878626037"
+          ],
+          "count": 1,
+          "distance": 19637.4,
+          "elevation_gain": 0.0,
+          "moving_time": 2407.0
+        },
         "2026-03-24": {
           "activity_ids": [
             "17837971649"
@@ -44520,6 +44574,25 @@
           "distance": 40655.2,
           "elevation_gain": 0.0,
           "moving_time": 5401.0
+        },
+        "2026-03-27": {
+          "activity_ids": [
+            "17879660237",
+            "17879698836"
+          ],
+          "count": 2,
+          "distance": 70601.6,
+          "elevation_gain": 0.0,
+          "moving_time": 11380.0
+        },
+        "2026-03-28": {
+          "activity_ids": [
+            "17888010682"
+          ],
+          "count": 1,
+          "distance": 2586.4,
+          "elevation_gain": 6.0,
+          "moving_time": 544.0
         }
       },
       "VirtualRide": {
@@ -45215,11 +45288,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 686.0
+        },
+        "2026-03-27": {
+          "activity_ids": [
+            "17880075094"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 514.0
         }
       }
     }
   },
-  "generated_at": "2026-03-27T15:23:06.247560+00:00",
+  "generated_at": "2026-03-28T15:13:55.790260+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/14768533",
   "repo": "ebowman/git-sweaty",
