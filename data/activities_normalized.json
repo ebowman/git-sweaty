@@ -39947,5 +39947,31 @@
     "start_date_local": "2026-03-28T13:26:57Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-03-28",
+    "distance": 14645.6,
+    "elevation_gain": 1000.0,
+    "id": "17890866552",
+    "moving_time": 5933.0,
+    "name": "ROUVY - Mont Ventoux from Bedoin | France",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-28T15:46:38Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-28",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17891077394",
+    "moving_time": 781.0,
+    "name": "Afternoon Yoga",
+    "raw_activity_type": "Yoga",
+    "raw_type": "Yoga",
+    "start_date_local": "2026-03-28T17:31:44Z",
+    "type": "Yoga",
+    "year": 2026
   }
 ]
