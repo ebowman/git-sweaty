@@ -27683,6 +27683,42 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/17903130745",
       "year": 2026
+    },
+    {
+      "date": "2026-03-30",
+      "hour": 19,
+      "name": "Active Recovery - 40",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17915843080",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-30",
+      "hour": 20,
+      "name": "Evening Yoga",
+      "subtype": "Yoga",
+      "type": "Yoga",
+      "url": "https://www.strava.com/activities/17916065264",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-31",
+      "hour": 8,
+      "name": "Cheung - Don't Look Back in Anger",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17921619258",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-31",
+      "hour": 10,
+      "name": "Morning Yoga",
+      "subtype": "Yoga",
+      "type": "Yoga",
+      "url": "https://www.strava.com/activities/17921726040",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -44629,6 +44665,24 @@
           "distance": 98720.4,
           "elevation_gain": 443.0,
           "moving_time": 14759.0
+        },
+        "2026-03-30": {
+          "activity_ids": [
+            "17915843080"
+          ],
+          "count": 1,
+          "distance": 22000.3,
+          "elevation_gain": 0.0,
+          "moving_time": 2401.0
+        },
+        "2026-03-31": {
+          "activity_ids": [
+            "17921619258"
+          ],
+          "count": 1,
+          "distance": 48752.7,
+          "elevation_gain": 0.0,
+          "moving_time": 5138.0
         }
       },
       "VirtualRide": {
@@ -45351,11 +45405,29 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 781.0
+        },
+        "2026-03-30": {
+          "activity_ids": [
+            "17916065264"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 615.0
+        },
+        "2026-03-31": {
+          "activity_ids": [
+            "17921726040"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 687.0
         }
       }
     }
   },
-  "generated_at": "2026-03-30T15:35:21.774024+00:00",
+  "generated_at": "2026-03-31T15:33:22.830369+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/14768533",
   "repo": "ebowman/git-sweaty",
