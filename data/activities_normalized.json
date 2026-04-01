@@ -40038,5 +40038,31 @@
     "start_date_local": "2026-03-31T10:14:07Z",
     "type": "Yoga",
     "year": 2026
+  },
+  {
+    "date": "2026-04-01",
+    "distance": 35200.0,
+    "elevation_gain": 0.0,
+    "id": "17934235109",
+    "moving_time": 4080.0,
+    "name": "Shitty Hotel Bike, Stockholm edition",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-01T09:00:00Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-01",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17934262064",
+    "moving_time": 251.0,
+    "name": "Morning Yoga",
+    "raw_activity_type": "Yoga",
+    "raw_type": "Yoga",
+    "start_date_local": "2026-04-01T09:13:54Z",
+    "type": "Yoga",
+    "year": 2026
   }
 ]
