@@ -40064,5 +40064,31 @@
     "start_date_local": "2026-04-01T09:13:54Z",
     "type": "Yoga",
     "year": 2026
+  },
+  {
+    "date": "2026-04-03",
+    "distance": 47024.5,
+    "elevation_gain": 0.0,
+    "id": "17965191212",
+    "moving_time": 7204.0,
+    "name": "SMART - All My Life - 120",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-03T17:13:11Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-03",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17965381054",
+    "moving_time": 728.0,
+    "name": "Evening Yoga",
+    "raw_activity_type": "Yoga",
+    "raw_type": "Yoga",
+    "start_date_local": "2026-04-03T19:16:32Z",
+    "type": "Yoga",
+    "year": 2026
   }
 ]

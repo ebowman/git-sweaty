@@ -27737,6 +27737,24 @@
       "type": "Yoga",
       "url": "https://www.strava.com/activities/17934262064",
       "year": 2026
+    },
+    {
+      "date": "2026-04-03",
+      "hour": 17,
+      "name": "SMART - All My Life - 120",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17965191212",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-03",
+      "hour": 19,
+      "name": "Evening Yoga",
+      "subtype": "Yoga",
+      "type": "Yoga",
+      "url": "https://www.strava.com/activities/17965381054",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -44710,6 +44728,15 @@
           "distance": 35200.0,
           "elevation_gain": 0.0,
           "moving_time": 4080.0
+        },
+        "2026-04-03": {
+          "activity_ids": [
+            "17965191212"
+          ],
+          "count": 1,
+          "distance": 47024.5,
+          "elevation_gain": 0.0,
+          "moving_time": 7204.0
         }
       },
       "VirtualRide": {
@@ -45459,11 +45486,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 251.0
+        },
+        "2026-04-03": {
+          "activity_ids": [
+            "17965381054"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 728.0
         }
       }
     }
   },
-  "generated_at": "2026-04-03T15:21:10.230292+00:00",
+  "generated_at": "2026-04-04T15:13:06.880856+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/14768533",
   "repo": "ebowman/git-sweaty",
