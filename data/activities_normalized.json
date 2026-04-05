@@ -40090,5 +40090,57 @@
     "start_date_local": "2026-04-03T19:16:32Z",
     "type": "Yoga",
     "year": 2026
+  },
+  {
+    "date": "2026-04-04",
+    "distance": 17122.5,
+    "elevation_gain": 1401.0,
+    "id": "17976766982",
+    "moving_time": 7037.0,
+    "name": "ROUVY - Mt. Ventoux (from Bedoin)",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-04T15:31:15Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-04",
+    "distance": 3587.0,
+    "elevation_gain": 15.0,
+    "id": "17976902282",
+    "moving_time": 539.0,
+    "name": "ROUVY - 20 minute cool-down",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-04T17:29:35Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-04",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17977309512",
+    "moving_time": 889.0,
+    "name": "Afternoon Yoga",
+    "raw_activity_type": "Yoga",
+    "raw_type": "Yoga",
+    "start_date_local": "2026-04-04T17:50:51Z",
+    "type": "Yoga",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-05",
+    "distance": 56381.6,
+    "elevation_gain": 220.0,
+    "id": "17988695973",
+    "moving_time": 7784.0,
+    "name": "Difficult Mixed Climber Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-05T14:18:59Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
