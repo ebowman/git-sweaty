@@ -27791,6 +27791,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/17988695973",
       "year": 2026
+    },
+    {
+      "date": "2026-04-06",
+      "hour": 10,
+      "name": "Moderate Polar Endurance Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17997895172",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -44782,6 +44791,15 @@
           "distance": 56381.6,
           "elevation_gain": 220.0,
           "moving_time": 7784.0
+        },
+        "2026-04-06": {
+          "activity_ids": [
+            "17997895172"
+          ],
+          "count": 1,
+          "distance": 45265.7,
+          "elevation_gain": 200.0,
+          "moving_time": 7328.0
         }
       },
       "VirtualRide": {
@@ -45563,7 +45581,7 @@
       }
     }
   },
-  "generated_at": "2026-04-05T15:14:27.036178+00:00",
+  "generated_at": "2026-04-06T15:22:35.409642+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/14768533",
   "repo": "ebowman/git-sweaty",

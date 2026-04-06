@@ -40142,5 +40142,18 @@
     "start_date_local": "2026-04-05T14:18:59Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-06",
+    "distance": 45265.7,
+    "elevation_gain": 200.0,
+    "id": "17997895172",
+    "moving_time": 7328.0,
+    "name": "Moderate Polar Endurance Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-06T10:56:40Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
