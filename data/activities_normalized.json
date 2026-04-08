@@ -40155,5 +40155,31 @@
     "start_date_local": "2026-04-06T10:56:40Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-07",
+    "distance": 16004.0,
+    "elevation_gain": 0.0,
+    "id": "18016393193",
+    "moving_time": 2401.0,
+    "name": "Active Recovery - 40",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-07T18:58:57Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-07",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18017219260",
+    "moving_time": 760.0,
+    "name": "Evening Yoga",
+    "raw_activity_type": "Yoga",
+    "raw_type": "Yoga",
+    "start_date_local": "2026-04-07T19:40:23Z",
+    "type": "Yoga",
+    "year": 2026
   }
 ]
