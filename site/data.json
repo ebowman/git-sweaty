@@ -27818,6 +27818,24 @@
       "type": "Yoga",
       "url": "https://www.strava.com/activities/18017219260",
       "year": 2026
+    },
+    {
+      "date": "2026-04-09",
+      "hour": 8,
+      "name": "SMART - Iron Man - 60",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18037215072",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-09",
+      "hour": 9,
+      "name": "Morning Yoga",
+      "subtype": "Yoga",
+      "type": "Yoga",
+      "url": "https://www.strava.com/activities/18037289125",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -44827,6 +44845,15 @@
           "distance": 16004.0,
           "elevation_gain": 0.0,
           "moving_time": 2401.0
+        },
+        "2026-04-09": {
+          "activity_ids": [
+            "18037215072"
+          ],
+          "count": 1,
+          "distance": 23773.1,
+          "elevation_gain": 0.0,
+          "moving_time": 3600.0
         }
       },
       "VirtualRide": {
@@ -45613,11 +45640,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 760.0
+        },
+        "2026-04-09": {
+          "activity_ids": [
+            "18037289125"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 579.0
         }
       }
     }
   },
-  "generated_at": "2026-04-08T15:36:46.423976+00:00",
+  "generated_at": "2026-04-09T15:39:17.545047+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/14768533",
   "repo": "ebowman/git-sweaty",

@@ -40181,5 +40181,31 @@
     "start_date_local": "2026-04-07T19:40:23Z",
     "type": "Yoga",
     "year": 2026
+  },
+  {
+    "date": "2026-04-09",
+    "distance": 23773.1,
+    "elevation_gain": 0.0,
+    "id": "18037215072",
+    "moving_time": 3600.0,
+    "name": "SMART - Iron Man - 60",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-09T08:25:17Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-09",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18037289125",
+    "moving_time": 579.0,
+    "name": "Morning Yoga",
+    "raw_activity_type": "Yoga",
+    "raw_type": "Yoga",
+    "start_date_local": "2026-04-09T09:27:30Z",
+    "type": "Yoga",
+    "year": 2026
   }
 ]
