@@ -27836,6 +27836,42 @@
       "type": "Yoga",
       "url": "https://www.strava.com/activities/18037289125",
       "year": 2026
+    },
+    {
+      "date": "2026-04-10",
+      "hour": 21,
+      "name": "Night Yoga",
+      "subtype": "Yoga",
+      "type": "Yoga",
+      "url": "https://www.strava.com/activities/18057443824",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-10",
+      "hour": 20,
+      "name": "Compressed Towers 3.0",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18057540627",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-11",
+      "hour": 12,
+      "name": "SMART - The Beauty of Suffering - 120",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18065309181",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-11",
+      "hour": 14,
+      "name": "Afternoon Yoga",
+      "subtype": "Yoga",
+      "type": "Yoga",
+      "url": "https://www.strava.com/activities/18065982759",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -44854,6 +44890,24 @@
           "distance": 23773.1,
           "elevation_gain": 0.0,
           "moving_time": 3600.0
+        },
+        "2026-04-10": {
+          "activity_ids": [
+            "18057540627"
+          ],
+          "count": 1,
+          "distance": 24094.4,
+          "elevation_gain": 0.0,
+          "moving_time": 3421.0
+        },
+        "2026-04-11": {
+          "activity_ids": [
+            "18065309181"
+          ],
+          "count": 1,
+          "distance": 48083.1,
+          "elevation_gain": 0.0,
+          "moving_time": 7203.0
         }
       },
       "VirtualRide": {
@@ -45649,11 +45703,29 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 579.0
+        },
+        "2026-04-10": {
+          "activity_ids": [
+            "18057443824"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 596.0
+        },
+        "2026-04-11": {
+          "activity_ids": [
+            "18065982759"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 627.0
         }
       }
     }
   },
-  "generated_at": "2026-04-10T15:23:15.627695+00:00",
+  "generated_at": "2026-04-11T15:15:23.842847+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/14768533",
   "repo": "ebowman/git-sweaty",
