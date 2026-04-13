@@ -27872,6 +27872,24 @@
       "type": "Yoga",
       "url": "https://www.strava.com/activities/18065982759",
       "year": 2026
+    },
+    {
+      "date": "2026-04-12",
+      "hour": 18,
+      "name": "Hardness Test - Level 15",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18083037492",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-12",
+      "hour": 19,
+      "name": "Evening Yoga",
+      "subtype": "Yoga",
+      "type": "Yoga",
+      "url": "https://www.strava.com/activities/18083285270",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -44908,6 +44926,15 @@
           "distance": 48083.1,
           "elevation_gain": 0.0,
           "moving_time": 7203.0
+        },
+        "2026-04-12": {
+          "activity_ids": [
+            "18083037492"
+          ],
+          "count": 1,
+          "distance": 27371.2,
+          "elevation_gain": 0.0,
+          "moving_time": 3601.0
         }
       },
       "VirtualRide": {
@@ -45721,11 +45748,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 627.0
+        },
+        "2026-04-12": {
+          "activity_ids": [
+            "18083285270"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 816.0
         }
       }
     }
   },
-  "generated_at": "2026-04-12T15:18:19.362953+00:00",
+  "generated_at": "2026-04-13T15:36:36.881874+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/14768533",
   "repo": "ebowman/git-sweaty",

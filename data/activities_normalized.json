@@ -40259,5 +40259,31 @@
     "start_date_local": "2026-04-11T14:20:28Z",
     "type": "Yoga",
     "year": 2026
+  },
+  {
+    "date": "2026-04-12",
+    "distance": 27371.2,
+    "elevation_gain": 0.0,
+    "id": "18083037492",
+    "moving_time": 3601.0,
+    "name": "Hardness Test - Level 15",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-12T18:17:53Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-12",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18083285270",
+    "moving_time": 816.0,
+    "name": "Evening Yoga",
+    "raw_activity_type": "Yoga",
+    "raw_type": "Yoga",
+    "start_date_local": "2026-04-12T19:27:31Z",
+    "type": "Yoga",
+    "year": 2026
   }
 ]
