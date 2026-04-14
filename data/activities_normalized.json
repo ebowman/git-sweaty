@@ -40285,5 +40285,70 @@
     "start_date_local": "2026-04-12T19:27:31Z",
     "type": "Yoga",
     "year": 2026
+  },
+  {
+    "date": "2026-04-13",
+    "distance": 8824.5,
+    "elevation_gain": 0.0,
+    "id": "18096201966",
+    "moving_time": 1580.0,
+    "name": "Easy Pure Endurance Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-13T22:18:51Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-13",
+    "distance": 544.1,
+    "elevation_gain": 5.8,
+    "id": "18096544570",
+    "moving_time": 99.0,
+    "name": "GPX Download: Brandenburg Gate \u2013 Reichstag Embankment loop from Berlin Alexanderplatz",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-13T23:23:12Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-13",
+    "distance": 8926.5,
+    "elevation_gain": 181.6,
+    "id": "18096880139",
+    "moving_time": 1230.0,
+    "name": "GPX Download: Brandenburg Gate \u2013 Reichstag Embankment loop from Berlin Alexanderplatz",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-13T23:40:31Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-14",
+    "distance": 55331.2,
+    "elevation_gain": 0.0,
+    "id": "18100896128",
+    "moving_time": 5421.0,
+    "name": "Coastal Denmark",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-14T08:07:59Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-14",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18101032051",
+    "moving_time": 344.0,
+    "name": "Morning Yoga",
+    "raw_activity_type": "Yoga",
+    "raw_type": "Yoga",
+    "start_date_local": "2026-04-14T09:41:41Z",
+    "type": "Yoga",
+    "year": 2026
   }
 ]

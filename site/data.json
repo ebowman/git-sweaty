@@ -27890,6 +27890,51 @@
       "type": "Yoga",
       "url": "https://www.strava.com/activities/18083285270",
       "year": 2026
+    },
+    {
+      "date": "2026-04-13",
+      "hour": 22,
+      "name": "Easy Pure Endurance Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18096201966",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-13",
+      "hour": 23,
+      "name": "GPX Download: Brandenburg Gate \u2013 Reichstag Embankment loop from Berlin Alexanderplatz",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18096544570",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-13",
+      "hour": 23,
+      "name": "GPX Download: Brandenburg Gate \u2013 Reichstag Embankment loop from Berlin Alexanderplatz",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18096880139",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-14",
+      "hour": 8,
+      "name": "Coastal Denmark",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18100896128",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-14",
+      "hour": 9,
+      "name": "Morning Yoga",
+      "subtype": "Yoga",
+      "type": "Yoga",
+      "url": "https://www.strava.com/activities/18101032051",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -44935,6 +44980,24 @@
           "distance": 27371.2,
           "elevation_gain": 0.0,
           "moving_time": 3601.0
+        },
+        "2026-04-13": {
+          "activity_ids": [
+            "18096201966"
+          ],
+          "count": 1,
+          "distance": 8824.5,
+          "elevation_gain": 0.0,
+          "moving_time": 1580.0
+        },
+        "2026-04-14": {
+          "activity_ids": [
+            "18100896128"
+          ],
+          "count": 1,
+          "distance": 55331.2,
+          "elevation_gain": 0.0,
+          "moving_time": 5421.0
         }
       },
       "VirtualRide": {
@@ -45030,6 +45093,16 @@
           "distance": 20709.5,
           "elevation_gain": 1416.0,
           "moving_time": 7576.0
+        },
+        "2026-04-13": {
+          "activity_ids": [
+            "18096544570",
+            "18096880139"
+          ],
+          "count": 2,
+          "distance": 9470.6,
+          "elevation_gain": 187.4,
+          "moving_time": 1329.0
         }
       },
       "Walk": {
@@ -45757,11 +45830,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 816.0
+        },
+        "2026-04-14": {
+          "activity_ids": [
+            "18101032051"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 344.0
         }
       }
     }
   },
-  "generated_at": "2026-04-13T15:36:36.881874+00:00",
+  "generated_at": "2026-04-14T15:32:30.517042+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/14768533",
   "repo": "ebowman/git-sweaty",
