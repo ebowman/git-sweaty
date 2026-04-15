@@ -40350,5 +40350,31 @@
     "start_date_local": "2026-04-14T09:41:41Z",
     "type": "Yoga",
     "year": 2026
+  },
+  {
+    "date": "2026-04-15",
+    "distance": 37886.1,
+    "elevation_gain": 0.0,
+    "id": "18114821505",
+    "moving_time": 5610.0,
+    "name": "Auto Generated Workout",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-15T08:00:07Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-15",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18115175005",
+    "moving_time": 679.0,
+    "name": "Morning Yoga",
+    "raw_activity_type": "Yoga",
+    "raw_type": "Yoga",
+    "start_date_local": "2026-04-15T09:36:57Z",
+    "type": "Yoga",
+    "year": 2026
   }
 ]
