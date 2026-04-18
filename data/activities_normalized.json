@@ -40389,5 +40389,31 @@
     "start_date_local": "2026-04-16T08:12:55Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-18",
+    "distance": 33658.2,
+    "elevation_gain": 0.0,
+    "id": "18157274968",
+    "moving_time": 4129.0,
+    "name": "VIRTUAL -  Espresso | Weekend Group Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-18T12:56:39Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-18",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18157416613",
+    "moving_time": 405.0,
+    "name": "Afternoon Yoga",
+    "raw_activity_type": "Yoga",
+    "raw_type": "Yoga",
+    "start_date_local": "2026-04-18T14:14:16Z",
+    "type": "Yoga",
+    "year": 2026
   }
 ]
