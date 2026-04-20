@@ -40428,5 +40428,31 @@
     "start_date_local": "2026-04-19T12:10:57Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-20",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18181382730",
+    "moving_time": 688.0,
+    "name": "Morning Yoga",
+    "raw_activity_type": "Yoga",
+    "raw_type": "Yoga",
+    "start_date_local": "2026-04-20T08:49:27Z",
+    "type": "Yoga",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-20",
+    "distance": 35711.6,
+    "elevation_gain": 0.0,
+    "id": "18182788502",
+    "moving_time": 4080.0,
+    "name": "Synthetic Stockholm Hotel Grind",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-20T07:38:26Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]

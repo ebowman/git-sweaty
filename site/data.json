@@ -27989,6 +27989,24 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18170338235",
       "year": 2026
+    },
+    {
+      "date": "2026-04-20",
+      "hour": 8,
+      "name": "Morning Yoga",
+      "subtype": "Yoga",
+      "type": "Yoga",
+      "url": "https://www.strava.com/activities/18181382730",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-20",
+      "hour": 7,
+      "name": "Synthetic Stockholm Hotel Grind",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18182788502",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -45088,6 +45106,15 @@
           "distance": 25948.2,
           "elevation_gain": 0.0,
           "moving_time": 3609.0
+        },
+        "2026-04-20": {
+          "activity_ids": [
+            "18182788502"
+          ],
+          "count": 1,
+          "distance": 35711.6,
+          "elevation_gain": 0.0,
+          "moving_time": 4080.0
         }
       },
       "VirtualRide": {
@@ -45947,11 +45974,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 405.0
+        },
+        "2026-04-20": {
+          "activity_ids": [
+            "18181382730"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 688.0
         }
       }
     }
   },
-  "generated_at": "2026-04-19T15:19:23.042895+00:00",
+  "generated_at": "2026-04-20T15:36:05.011886+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/14768533",
   "repo": "ebowman/git-sweaty",
