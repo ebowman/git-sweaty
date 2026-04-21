@@ -28007,6 +28007,33 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18182788502",
       "year": 2026
+    },
+    {
+      "date": "2026-04-20",
+      "hour": 22,
+      "name": "Night Walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/18189452115",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-21",
+      "hour": 7,
+      "name": "Morning Yoga",
+      "subtype": "Yoga",
+      "type": "Yoga",
+      "url": "https://www.strava.com/activities/18193152965",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-21",
+      "hour": 6,
+      "name": "Welcome to the Jungle 45",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18193228955",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -45115,6 +45142,15 @@
           "distance": 35711.6,
           "elevation_gain": 0.0,
           "moving_time": 4080.0
+        },
+        "2026-04-21": {
+          "activity_ids": [
+            "18193228955"
+          ],
+          "count": 1,
+          "distance": 24284.4,
+          "elevation_gain": 0.0,
+          "moving_time": 2700.0
         }
       },
       "VirtualRide": {
@@ -45249,6 +45285,15 @@
           "distance": 3985.1,
           "elevation_gain": 14.4,
           "moving_time": 2109.0
+        },
+        "2026-04-20": {
+          "activity_ids": [
+            "18189452115"
+          ],
+          "count": 1,
+          "distance": 1623.5,
+          "elevation_gain": 8.2,
+          "moving_time": 810.0
         }
       },
       "Yoga": {
@@ -45983,11 +46028,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 688.0
+        },
+        "2026-04-21": {
+          "activity_ids": [
+            "18193152965"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 688.0
         }
       }
     }
   },
-  "generated_at": "2026-04-20T15:36:05.011886+00:00",
+  "generated_at": "2026-04-21T15:35:41.251936+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/14768533",
   "repo": "ebowman/git-sweaty",
