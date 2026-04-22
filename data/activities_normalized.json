@@ -40493,5 +40493,57 @@
     "start_date_local": "2026-04-21T06:58:36Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-21",
+    "distance": 1233.3,
+    "elevation_gain": 11.4,
+    "id": "18201385613",
+    "moving_time": 883.0,
+    "name": "Evening Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-04-21T18:54:00Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-21",
+    "distance": 1134.0,
+    "elevation_gain": 18.4,
+    "id": "18203415362",
+    "moving_time": 510.0,
+    "name": "Night Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-04-21T22:05:50Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-22",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18207642232",
+    "moving_time": 597.0,
+    "name": "Morning Yoga",
+    "raw_activity_type": "Yoga",
+    "raw_type": "Yoga",
+    "start_date_local": "2026-04-22T08:04:15Z",
+    "type": "Yoga",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-22",
+    "distance": 24223.7,
+    "elevation_gain": 0.0,
+    "id": "18207977903",
+    "moving_time": 2700.0,
+    "name": "Welcome to the Jungle, take 2",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-22T07:16:15Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
