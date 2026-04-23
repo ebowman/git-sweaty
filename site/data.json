@@ -28070,6 +28070,24 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18207977903",
       "year": 2026
+    },
+    {
+      "date": "2026-04-22",
+      "hour": 18,
+      "name": "Evening Walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/18215467175",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-23",
+      "hour": 7,
+      "name": "XMB Workout CL3",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18222176860",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -45196,6 +45214,15 @@
           "distance": 24223.7,
           "elevation_gain": 0.0,
           "moving_time": 2700.0
+        },
+        "2026-04-23": {
+          "activity_ids": [
+            "18222176860"
+          ],
+          "count": 1,
+          "distance": 37070.5,
+          "elevation_gain": 0.0,
+          "moving_time": 4145.0
         }
       },
       "VirtualRide": {
@@ -45349,6 +45376,15 @@
           "distance": 2367.3,
           "elevation_gain": 29.799999999999997,
           "moving_time": 1393.0
+        },
+        "2026-04-22": {
+          "activity_ids": [
+            "18215467175"
+          ],
+          "count": 1,
+          "distance": 1105.0,
+          "elevation_gain": 0.0,
+          "moving_time": 606.0
         }
       },
       "Yoga": {
@@ -46105,7 +46141,7 @@
       }
     }
   },
-  "generated_at": "2026-04-22T15:34:06.417394+00:00",
+  "generated_at": "2026-04-23T15:41:59.647565+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/14768533",
   "repo": "ebowman/git-sweaty",

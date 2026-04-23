@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-22T15:34:06.389790+00:00",
+  "generated_at": "2026-04-23T15:41:59.620392+00:00",
   "years": {
     "2017": {
       "StairStepper": {
@@ -17124,6 +17124,15 @@
           "distance": 24223.7,
           "elevation_gain": 0.0,
           "moving_time": 2700.0
+        },
+        "2026-04-23": {
+          "activity_ids": [
+            "18222176860"
+          ],
+          "count": 1,
+          "distance": 37070.5,
+          "elevation_gain": 0.0,
+          "moving_time": 4145.0
         }
       },
       "VirtualRide": {
@@ -17277,6 +17286,15 @@
           "distance": 2367.3,
           "elevation_gain": 29.799999999999997,
           "moving_time": 1393.0
+        },
+        "2026-04-22": {
+          "activity_ids": [
+            "18215467175"
+          ],
+          "count": 1,
+          "distance": 1105.0,
+          "elevation_gain": 0.0,
+          "moving_time": 606.0
         }
       },
       "Yoga": {

@@ -40545,5 +40545,31 @@
     "start_date_local": "2026-04-22T07:16:15Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-22",
+    "distance": 1105.0,
+    "elevation_gain": 0.0,
+    "id": "18215467175",
+    "moving_time": 606.0,
+    "name": "Evening Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-04-22T18:55:53Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-23",
+    "distance": 37070.5,
+    "elevation_gain": 0.0,
+    "id": "18222176860",
+    "moving_time": 4145.0,
+    "name": "XMB Workout CL3",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-23T07:00:54Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
