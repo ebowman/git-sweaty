@@ -40571,5 +40571,44 @@
     "start_date_local": "2026-04-23T07:00:54Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-23",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18227408156",
+    "moving_time": 551.0,
+    "name": "Morning Yoga",
+    "raw_activity_type": "Yoga",
+    "raw_type": "Yoga",
+    "start_date_local": "2026-04-23T08:10:54Z",
+    "type": "Yoga",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-24",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18235493760",
+    "moving_time": 768.0,
+    "name": "Morning Yoga",
+    "raw_activity_type": "Yoga",
+    "raw_type": "Yoga",
+    "start_date_local": "2026-04-24T09:22:33Z",
+    "type": "Yoga",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-24",
+    "distance": 32640.0,
+    "elevation_gain": 0.0,
+    "id": "18236397320",
+    "moving_time": 3630.0,
+    "name": "SMART - Nothing Else Matters - 60",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-24T08:18:25Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
