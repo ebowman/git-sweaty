@@ -28115,6 +28115,24 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18236397320",
       "year": 2026
+    },
+    {
+      "date": "2026-04-25",
+      "hour": 13,
+      "name": "Difficult Mixed Climber Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18254601737",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-26",
+      "hour": 13,
+      "name": "Moderate Polar Climber Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18267128562",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -45259,6 +45277,24 @@
           "distance": 32640.0,
           "elevation_gain": 0.0,
           "moving_time": 3630.0
+        },
+        "2026-04-25": {
+          "activity_ids": [
+            "18254601737"
+          ],
+          "count": 1,
+          "distance": 109769.0,
+          "elevation_gain": 620.0,
+          "moving_time": 15558.0
+        },
+        "2026-04-26": {
+          "activity_ids": [
+            "18267128562"
+          ],
+          "count": 1,
+          "distance": 72575.8,
+          "elevation_gain": 219.0,
+          "moving_time": 10244.0
         }
       },
       "VirtualRide": {
@@ -46195,7 +46231,7 @@
       }
     }
   },
-  "generated_at": "2026-04-25T15:20:08.044345+00:00",
+  "generated_at": "2026-04-26T15:20:23.759001+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/14768533",
   "repo": "ebowman/git-sweaty",

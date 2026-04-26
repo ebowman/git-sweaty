@@ -40610,5 +40610,31 @@
     "start_date_local": "2026-04-24T08:18:25Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-25",
+    "distance": 109769.0,
+    "elevation_gain": 620.0,
+    "id": "18254601737",
+    "moving_time": 15558.0,
+    "name": "Difficult Mixed Climber Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-25T13:26:06Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-26",
+    "distance": 72575.8,
+    "elevation_gain": 219.0,
+    "id": "18267128562",
+    "moving_time": 10244.0,
+    "name": "Moderate Polar Climber Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-26T13:15:51Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
