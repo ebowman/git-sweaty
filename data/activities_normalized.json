@@ -40625,6 +40625,19 @@
     "year": 2026
   },
   {
+    "date": "2026-04-25",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18268458577",
+    "moving_time": 775.0,
+    "name": "Evening Yoga",
+    "raw_activity_type": "Yoga",
+    "raw_type": "Yoga",
+    "start_date_local": "2026-04-25T19:50:28Z",
+    "type": "Yoga",
+    "year": 2026
+  },
+  {
     "date": "2026-04-26",
     "distance": 72575.8,
     "elevation_gain": 219.0,
@@ -40635,6 +40648,19 @@
     "raw_type": "Ride",
     "start_date_local": "2026-04-26T13:15:51Z",
     "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-26",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18268457932",
+    "moving_time": 622.0,
+    "name": "Afternoon Yoga",
+    "raw_activity_type": "Yoga",
+    "raw_type": "Yoga",
+    "start_date_local": "2026-04-26T17:23:05Z",
+    "type": "Yoga",
     "year": 2026
   }
 ]
