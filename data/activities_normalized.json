@@ -40662,5 +40662,31 @@
     "start_date_local": "2026-04-26T17:23:05Z",
     "type": "Yoga",
     "year": 2026
+  },
+  {
+    "date": "2026-04-27",
+    "distance": 13880.2,
+    "elevation_gain": 23.0,
+    "id": "18281601657",
+    "moving_time": 2556.0,
+    "name": "Easy Polar Endurance Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-27T18:55:26Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-28",
+    "distance": 36351.8,
+    "elevation_gain": 0.0,
+    "id": "18288295510",
+    "moving_time": 4426.0,
+    "name": "SMART - Say It Ain't So - 75",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-28T08:14:40Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]

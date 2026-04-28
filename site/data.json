@@ -28151,6 +28151,24 @@
       "type": "Yoga",
       "url": "https://www.strava.com/activities/18268457932",
       "year": 2026
+    },
+    {
+      "date": "2026-04-27",
+      "hour": 18,
+      "name": "Easy Polar Endurance Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18281601657",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-28",
+      "hour": 8,
+      "name": "SMART - Say It Ain't So - 75",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18288295510",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -45313,6 +45331,24 @@
           "distance": 72575.8,
           "elevation_gain": 219.0,
           "moving_time": 10244.0
+        },
+        "2026-04-27": {
+          "activity_ids": [
+            "18281601657"
+          ],
+          "count": 1,
+          "distance": 13880.2,
+          "elevation_gain": 23.0,
+          "moving_time": 2556.0
+        },
+        "2026-04-28": {
+          "activity_ids": [
+            "18288295510"
+          ],
+          "count": 1,
+          "distance": 36351.8,
+          "elevation_gain": 0.0,
+          "moving_time": 4426.0
         }
       },
       "VirtualRide": {
@@ -46267,7 +46303,7 @@
       }
     }
   },
-  "generated_at": "2026-04-27T15:40:40.372792+00:00",
+  "generated_at": "2026-04-28T15:54:09.634237+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/14768533",
   "repo": "ebowman/git-sweaty",
