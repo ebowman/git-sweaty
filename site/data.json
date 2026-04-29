@@ -28169,6 +28169,33 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18288295510",
       "year": 2026
+    },
+    {
+      "date": "2026-04-28",
+      "hour": 9,
+      "name": "Morning Yoga",
+      "subtype": "Yoga",
+      "type": "Yoga",
+      "url": "https://www.strava.com/activities/18302723410",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-29",
+      "hour": 8,
+      "name": "SMART - Save Yourself - 60",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18302255341",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-29",
+      "hour": 9,
+      "name": "Morning Yoga",
+      "subtype": "Yoga",
+      "type": "Yoga",
+      "url": "https://www.strava.com/activities/18302723707",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -45349,6 +45376,15 @@
           "distance": 36351.8,
           "elevation_gain": 0.0,
           "moving_time": 4426.0
+        },
+        "2026-04-29": {
+          "activity_ids": [
+            "18302255341"
+          ],
+          "count": 1,
+          "distance": 32215.1,
+          "elevation_gain": 0.0,
+          "moving_time": 3599.0
         }
       },
       "VirtualRide": {
@@ -46299,11 +46335,29 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 622.0
+        },
+        "2026-04-28": {
+          "activity_ids": [
+            "18302723410"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 595.0
+        },
+        "2026-04-29": {
+          "activity_ids": [
+            "18302723707"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 688.0
         }
       }
     }
   },
-  "generated_at": "2026-04-28T15:54:09.634237+00:00",
+  "generated_at": "2026-04-29T15:46:02.027099+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/14768533",
   "repo": "ebowman/git-sweaty",
