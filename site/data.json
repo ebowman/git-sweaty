@@ -28196,6 +28196,24 @@
       "type": "Yoga",
       "url": "https://www.strava.com/activities/18302723707",
       "year": 2026
+    },
+    {
+      "date": "2026-04-30",
+      "hour": 10,
+      "name": "Active Recovery - 40 (High Cadence Version)",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18316279983",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-30",
+      "hour": 11,
+      "name": "Lunch Yoga",
+      "subtype": "Yoga",
+      "type": "Yoga",
+      "url": "https://www.strava.com/activities/18320019804",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -45385,6 +45403,15 @@
           "distance": 32215.1,
           "elevation_gain": 0.0,
           "moving_time": 3599.0
+        },
+        "2026-04-30": {
+          "activity_ids": [
+            "18316279983"
+          ],
+          "count": 1,
+          "distance": 25551.3,
+          "elevation_gain": 0.0,
+          "moving_time": 2413.0
         }
       },
       "VirtualRide": {
@@ -46353,11 +46380,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 688.0
+        },
+        "2026-04-30": {
+          "activity_ids": [
+            "18320019804"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 615.0
         }
       }
     }
   },
-  "generated_at": "2026-04-29T15:46:02.027099+00:00",
+  "generated_at": "2026-04-30T15:40:58.178892+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/14768533",
   "repo": "ebowman/git-sweaty",

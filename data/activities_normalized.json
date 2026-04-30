@@ -40727,5 +40727,31 @@
     "start_date_local": "2026-04-29T09:11:01Z",
     "type": "Yoga",
     "year": 2026
+  },
+  {
+    "date": "2026-04-30",
+    "distance": 25551.3,
+    "elevation_gain": 0.0,
+    "id": "18316279983",
+    "moving_time": 2413.0,
+    "name": "Active Recovery - 40 (High Cadence Version)",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-30T10:15:18Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-30",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18320019804",
+    "moving_time": 615.0,
+    "name": "Lunch Yoga",
+    "raw_activity_type": "Yoga",
+    "raw_type": "Yoga",
+    "start_date_local": "2026-04-30T11:01:03Z",
+    "type": "Yoga",
+    "year": 2026
   }
 ]
