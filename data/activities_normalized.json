@@ -40753,5 +40753,18 @@
     "start_date_local": "2026-04-30T11:01:03Z",
     "type": "Yoga",
     "year": 2026
+  },
+  {
+    "date": "2026-05-01",
+    "distance": 126378.0,
+    "elevation_gain": 633.0,
+    "id": "18333569776",
+    "moving_time": 17803.0,
+    "name": "Moderate Polar Climber Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-01T10:35:34Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
