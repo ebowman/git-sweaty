@@ -28254,10 +28254,46 @@
     {
       "date": "2026-05-03",
       "hour": 15,
-      "name": "ROUVY - Mt. Ventoux (from Bedoin)",
+      "name": "ROUVY - Mt. Ventoux (from Bedoin) #fail",
       "subtype": "VirtualRide",
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/18360432117",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-04",
+      "hour": 9,
+      "name": "Auto Generated Workout",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18368799472",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-04",
+      "hour": 10,
+      "name": "Morning Yoga",
+      "subtype": "Yoga",
+      "type": "Yoga",
+      "url": "https://www.strava.com/activities/18369005894",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-05",
+      "hour": 9,
+      "name": "Hardness Test - Level 06",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18381902952",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-05",
+      "hour": 10,
+      "name": "Morning Yoga",
+      "subtype": "Yoga",
+      "type": "Yoga",
+      "url": "https://www.strava.com/activities/18382003389",
       "year": 2026
     }
   ],
@@ -45484,6 +45520,24 @@
           "distance": 24962.5,
           "elevation_gain": 71.0,
           "moving_time": 4014.0
+        },
+        "2026-05-04": {
+          "activity_ids": [
+            "18368799472"
+          ],
+          "count": 1,
+          "distance": 47094.7,
+          "elevation_gain": 0.0,
+          "moving_time": 5647.0
+        },
+        "2026-05-05": {
+          "activity_ids": [
+            "18381902952"
+          ],
+          "count": 1,
+          "distance": 31638.7,
+          "elevation_gain": 0.0,
+          "moving_time": 3605.0
         }
       },
       "VirtualRide": {
@@ -46479,11 +46533,29 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 1408.0
+        },
+        "2026-05-04": {
+          "activity_ids": [
+            "18369005894"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 814.0
+        },
+        "2026-05-05": {
+          "activity_ids": [
+            "18382003389"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 706.0
         }
       }
     }
   },
-  "generated_at": "2026-05-03T15:20:37.953911+00:00",
+  "generated_at": "2026-05-05T15:43:03.715556+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/14768533",
   "repo": "ebowman/git-sweaty",
