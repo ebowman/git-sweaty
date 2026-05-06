@@ -40870,5 +40870,31 @@
     "start_date_local": "2026-05-05T10:07:03Z",
     "type": "Yoga",
     "year": 2026
+  },
+  {
+    "date": "2026-05-06",
+    "distance": 31998.8,
+    "elevation_gain": 0.0,
+    "id": "18395455052",
+    "moving_time": 3963.0,
+    "name": "SMART - In The End",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-06T08:19:42Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-06",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18396876514",
+    "moving_time": 605.0,
+    "name": "Morning Yoga",
+    "raw_activity_type": "Yoga",
+    "raw_type": "Yoga",
+    "start_date_local": "2026-05-06T09:34:19Z",
+    "type": "Yoga",
+    "year": 2026
   }
 ]
