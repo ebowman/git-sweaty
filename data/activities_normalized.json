@@ -40896,5 +40896,31 @@
     "start_date_local": "2026-05-06T09:34:19Z",
     "type": "Yoga",
     "year": 2026
+  },
+  {
+    "date": "2026-05-07",
+    "distance": 45431.4,
+    "elevation_gain": 0.0,
+    "id": "18409032690",
+    "moving_time": 5642.0,
+    "name": "SMART - Working Man - Extended",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-07T08:45:16Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-07",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18412336582",
+    "moving_time": 616.0,
+    "name": "Morning Yoga",
+    "raw_activity_type": "Yoga",
+    "raw_type": "Yoga",
+    "start_date_local": "2026-05-07T10:25:18Z",
+    "type": "Yoga",
+    "year": 2026
   }
 ]
