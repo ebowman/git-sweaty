@@ -40922,5 +40922,44 @@
     "start_date_local": "2026-05-07T10:25:18Z",
     "type": "Yoga",
     "year": 2026
+  },
+  {
+    "date": "2026-05-08",
+    "distance": 29202.3,
+    "elevation_gain": 0.0,
+    "id": "18429916122",
+    "moving_time": 3601.0,
+    "name": "Hardness Test - Level 06",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-08T21:30:42Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-08",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18430048574",
+    "moving_time": 765.0,
+    "name": "Night Yoga",
+    "raw_activity_type": "Yoga",
+    "raw_type": "Yoga",
+    "start_date_local": "2026-05-08T22:37:02Z",
+    "type": "Yoga",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-09",
+    "distance": 106920.0,
+    "elevation_gain": 322.0,
+    "id": "18440504734",
+    "moving_time": 14032.0,
+    "name": "Difficult Polar Climber Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-09T12:56:46Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
