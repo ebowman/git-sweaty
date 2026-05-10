@@ -40961,5 +40961,18 @@
     "start_date_local": "2026-05-09T12:56:46Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-09",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18441663486",
+    "moving_time": 988.0,
+    "name": "Evening Yoga",
+    "raw_activity_type": "Yoga",
+    "raw_type": "Yoga",
+    "start_date_local": "2026-05-09T18:20:20Z",
+    "type": "Yoga",
+    "year": 2026
   }
 ]
