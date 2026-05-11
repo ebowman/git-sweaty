@@ -40974,5 +40974,31 @@
     "start_date_local": "2026-05-09T18:20:20Z",
     "type": "Yoga",
     "year": 2026
+  },
+  {
+    "date": "2026-05-10",
+    "distance": 66695.8,
+    "elevation_gain": 423.0,
+    "id": "18454607622",
+    "moving_time": 9390.0,
+    "name": "Difficult Mixed Climber Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-10T14:57:45Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-10",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18455536381",
+    "moving_time": 689.0,
+    "name": "Evening Yoga",
+    "raw_activity_type": "Yoga",
+    "raw_type": "Yoga",
+    "start_date_local": "2026-05-10T18:37:08Z",
+    "type": "Yoga",
+    "year": 2026
   }
 ]
