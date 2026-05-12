@@ -41000,5 +41000,31 @@
     "start_date_local": "2026-05-10T18:37:08Z",
     "type": "Yoga",
     "year": 2026
+  },
+  {
+    "date": "2026-05-12",
+    "distance": 36756.9,
+    "elevation_gain": 0.0,
+    "id": "18473141464",
+    "moving_time": 4980.0,
+    "name": "SMART - Higher Ground - 2.5",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-12T07:32:37Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-12",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18473590353",
+    "moving_time": 435.0,
+    "name": "Morning Yoga",
+    "raw_activity_type": "Yoga",
+    "raw_type": "Yoga",
+    "start_date_local": "2026-05-12T08:59:10Z",
+    "type": "Yoga",
+    "year": 2026
   }
 ]
