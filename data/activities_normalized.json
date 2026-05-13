@@ -41026,5 +41026,31 @@
     "start_date_local": "2026-05-12T08:59:10Z",
     "type": "Yoga",
     "year": 2026
+  },
+  {
+    "date": "2026-05-13",
+    "distance": 44905.0,
+    "elevation_gain": 0.0,
+    "id": "18487435875",
+    "moving_time": 5039.0,
+    "name": "SMART - The Beauty of Suffering",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-13T08:30:56Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-13",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18487518220",
+    "moving_time": 497.0,
+    "name": "Morning Yoga",
+    "raw_activity_type": "Yoga",
+    "raw_type": "Yoga",
+    "start_date_local": "2026-05-13T09:57:34Z",
+    "type": "Yoga",
+    "year": 2026
   }
 ]
