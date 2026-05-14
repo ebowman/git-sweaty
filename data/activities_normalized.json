@@ -41052,5 +41052,31 @@
     "start_date_local": "2026-05-13T09:57:34Z",
     "type": "Yoga",
     "year": 2026
+  },
+  {
+    "date": "2026-05-14",
+    "distance": 49000.5,
+    "elevation_gain": 0.0,
+    "id": "18504586303",
+    "moving_time": 6300.0,
+    "name": "Ventoux Climb Simulator - 2h (1:45 version \ud83d\ude2e\u200d\ud83d\udca8)",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-14T14:14:25Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-14",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18504822031",
+    "moving_time": 680.0,
+    "name": "Afternoon Yoga",
+    "raw_activity_type": "Yoga",
+    "raw_type": "Yoga",
+    "start_date_local": "2026-05-14T16:06:28Z",
+    "type": "Yoga",
+    "year": 2026
   }
 ]

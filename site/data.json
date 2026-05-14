@@ -28421,6 +28421,24 @@
       "type": "Yoga",
       "url": "https://www.strava.com/activities/18487518220",
       "year": 2026
+    },
+    {
+      "date": "2026-05-14",
+      "hour": 14,
+      "name": "Ventoux Climb Simulator - 2h (1:45 version \ud83d\ude2e\u200d\ud83d\udca8)",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18504586303",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-14",
+      "hour": 16,
+      "name": "Afternoon Yoga",
+      "subtype": "Yoga",
+      "type": "Yoga",
+      "url": "https://www.strava.com/activities/18504822031",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -45727,6 +45745,15 @@
           "distance": 44905.0,
           "elevation_gain": 0.0,
           "moving_time": 5039.0
+        },
+        "2026-05-14": {
+          "activity_ids": [
+            "18504586303"
+          ],
+          "count": 1,
+          "distance": 49000.5,
+          "elevation_gain": 0.0,
+          "moving_time": 6300.0
         }
       },
       "VirtualRide": {
@@ -46803,11 +46830,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 497.0
+        },
+        "2026-05-14": {
+          "activity_ids": [
+            "18504822031"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 680.0
         }
       }
     }
   },
-  "generated_at": "2026-05-13T15:56:53.641282+00:00",
+  "generated_at": "2026-05-14T15:53:37.259473+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/14768533",
   "repo": "ebowman/git-sweaty",
