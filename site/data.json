@@ -28439,6 +28439,24 @@
       "type": "Yoga",
       "url": "https://www.strava.com/activities/18504822031",
       "year": 2026
+    },
+    {
+      "date": "2026-05-15",
+      "hour": 8,
+      "name": "Friday Openers - 45min",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18513229689",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-15",
+      "hour": 9,
+      "name": "Morning Yoga",
+      "subtype": "Yoga",
+      "type": "Yoga",
+      "url": "https://www.strava.com/activities/18513447087",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -45754,6 +45772,15 @@
           "distance": 49000.5,
           "elevation_gain": 0.0,
           "moving_time": 6300.0
+        },
+        "2026-05-15": {
+          "activity_ids": [
+            "18513229689"
+          ],
+          "count": 1,
+          "distance": 23148.5,
+          "elevation_gain": 0.0,
+          "moving_time": 2731.0
         }
       },
       "VirtualRide": {
@@ -46839,11 +46866,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 680.0
+        },
+        "2026-05-15": {
+          "activity_ids": [
+            "18513447087"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 919.0
         }
       }
     }
   },
-  "generated_at": "2026-05-14T15:53:37.259473+00:00",
+  "generated_at": "2026-05-15T15:48:08.656138+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/14768533",
   "repo": "ebowman/git-sweaty",
