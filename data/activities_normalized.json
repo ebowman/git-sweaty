@@ -41104,5 +41104,44 @@
     "start_date_local": "2026-05-15T09:46:41Z",
     "type": "Yoga",
     "year": 2026
+  },
+  {
+    "date": "2026-05-16",
+    "distance": 51180.0,
+    "elevation_gain": 703.0,
+    "id": "18529187483",
+    "moving_time": 8653.0,
+    "name": "ROUVY - KOTR26 D3 Long - Rouvy pause support on iPad is just beyond stupidly broken",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-16T12:18:36Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-16",
+    "distance": 6029.5,
+    "elevation_gain": 484.0,
+    "id": "18529905924",
+    "moving_time": 2845.0,
+    "name": "ROUVY - Mt. Ventoux (from Bedoin) (indoor is just so boring)",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-16T15:07:00Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-16",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18530237449",
+    "moving_time": 1085.0,
+    "name": "Afternoon Yoga",
+    "raw_activity_type": "Yoga",
+    "raw_type": "Yoga",
+    "start_date_local": "2026-05-16T15:59:21Z",
+    "type": "Yoga",
+    "year": 2026
   }
 ]
