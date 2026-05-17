@@ -41143,5 +41143,31 @@
     "start_date_local": "2026-05-16T15:59:21Z",
     "type": "Yoga",
     "year": 2026
+  },
+  {
+    "date": "2026-05-17",
+    "distance": 23797.1,
+    "elevation_gain": 0.0,
+    "id": "18539353569",
+    "moving_time": 2400.0,
+    "name": "Active Recovery - 40",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-17T10:47:26Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-17",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18540301169",
+    "moving_time": 447.0,
+    "name": "Lunch Yoga",
+    "raw_activity_type": "Yoga",
+    "raw_type": "Yoga",
+    "start_date_local": "2026-05-17T11:30:36Z",
+    "type": "Yoga",
+    "year": 2026
   }
 ]
