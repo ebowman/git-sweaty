@@ -41195,5 +41195,18 @@
     "start_date_local": "2026-05-18T07:36:30Z",
     "type": "Yoga",
     "year": 2026
+  },
+  {
+    "date": "2026-05-19",
+    "distance": 38741.7,
+    "elevation_gain": 314.0,
+    "id": "18572155617",
+    "moving_time": 6392.0,
+    "name": "Easy Polar Endurance Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-19T17:14:11Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]

@@ -28520,6 +28520,15 @@
       "type": "Yoga",
       "url": "https://www.strava.com/activities/18551348912",
       "year": 2026
+    },
+    {
+      "date": "2026-05-19",
+      "hour": 17,
+      "name": "Easy Polar Endurance Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18572155617",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -45862,6 +45871,15 @@
           "distance": 30850.1,
           "elevation_gain": 184.0,
           "moving_time": 4210.0
+        },
+        "2026-05-19": {
+          "activity_ids": [
+            "18572155617"
+          ],
+          "count": 1,
+          "distance": 38741.7,
+          "elevation_gain": 314.0,
+          "moving_time": 6392.0
         }
       },
       "VirtualRide": {
@@ -46997,7 +47015,7 @@
       }
     }
   },
-  "generated_at": "2026-05-19T16:10:08.724971+00:00",
+  "generated_at": "2026-05-20T16:18:48.142907+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/14768533",
   "repo": "ebowman/git-sweaty",
