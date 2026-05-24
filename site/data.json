@@ -28547,6 +28547,33 @@
       "type": "Yoga",
       "url": "https://www.strava.com/activities/18611471345",
       "year": 2026
+    },
+    {
+      "date": "2026-05-23",
+      "hour": 15,
+      "name": "Moderate Polar Endurance Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18624584944",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-23",
+      "hour": 19,
+      "name": "Evening Yoga",
+      "subtype": "Yoga",
+      "type": "Yoga",
+      "url": "https://www.strava.com/activities/18625039017",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-24",
+      "hour": 15,
+      "name": "Easy Polar Endurance Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18636917838",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -45907,6 +45934,24 @@
           "distance": 36416.1,
           "elevation_gain": 0.0,
           "moving_time": 4221.0
+        },
+        "2026-05-23": {
+          "activity_ids": [
+            "18624584944"
+          ],
+          "count": 1,
+          "distance": 77155.3,
+          "elevation_gain": 439.0,
+          "moving_time": 11742.0
+        },
+        "2026-05-24": {
+          "activity_ids": [
+            "18636917838"
+          ],
+          "count": 1,
+          "distance": 30965.0,
+          "elevation_gain": 50.0,
+          "moving_time": 4751.0
         }
       },
       "VirtualRide": {
@@ -47047,11 +47092,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 1145.0
+        },
+        "2026-05-23": {
+          "activity_ids": [
+            "18625039017"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 385.0
         }
       }
     }
   },
-  "generated_at": "2026-05-23T15:30:02.187340+00:00",
+  "generated_at": "2026-05-24T15:30:03.720905+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/14768533",
   "repo": "ebowman/git-sweaty",
