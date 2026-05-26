@@ -41273,5 +41273,18 @@
     "start_date_local": "2026-05-24T15:52:18Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-25",
+    "distance": 29120.1,
+    "elevation_gain": 83.0,
+    "id": "18649773101",
+    "moving_time": 4964.0,
+    "name": "Easy Polar Endurance Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-25T16:27:29Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
