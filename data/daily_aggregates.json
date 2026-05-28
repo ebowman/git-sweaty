@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-27T16:21:39.212467+00:00",
+  "generated_at": "2026-05-28T16:33:14.686660+00:00",
   "years": {
     "2017": {
       "StairStepper": {
@@ -17394,6 +17394,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 5.0
+        },
+        "2026-05-28": {
+          "activity_ids": [
+            "18690487545"
+          ],
+          "count": 1,
+          "distance": 42831.3,
+          "elevation_gain": 188.0,
+          "moving_time": 7244.0
         }
       },
       "VirtualRide": {
