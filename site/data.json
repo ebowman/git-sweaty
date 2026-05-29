@@ -28596,10 +28596,37 @@
     {
       "date": "2026-05-28",
       "hour": 15,
-      "name": "KOTR26 Day 1 Warm up the legs",
+      "name": "KOTR26 Day 0 Warm up the legs",
       "subtype": "Ride",
       "type": "Ride",
       "url": "https://www.strava.com/activities/18690487545",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-28",
+      "hour": 18,
+      "name": "Evening Yoga",
+      "subtype": "Yoga",
+      "type": "Yoga",
+      "url": "https://www.strava.com/activities/18691352697",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-29",
+      "hour": 7,
+      "name": "KOTR26 Day 1 - NW Provence",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18701085474",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-29",
+      "hour": 13,
+      "name": "Afternoon Yoga",
+      "subtype": "Yoga",
+      "type": "Yoga",
+      "url": "https://www.strava.com/activities/18701363782",
       "year": 2026
     }
   ],
@@ -46006,6 +46033,15 @@
           "distance": 42831.3,
           "elevation_gain": 188.0,
           "moving_time": 7244.0
+        },
+        "2026-05-29": {
+          "activity_ids": [
+            "18701085474"
+          ],
+          "count": 1,
+          "distance": 104564.0,
+          "elevation_gain": 860.0,
+          "moving_time": 16559.0
         }
       },
       "VirtualRide": {
@@ -47155,11 +47191,29 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 385.0
+        },
+        "2026-05-28": {
+          "activity_ids": [
+            "18691352697"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1398.0
+        },
+        "2026-05-29": {
+          "activity_ids": [
+            "18701363782"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 417.0
         }
       }
     }
   },
-  "generated_at": "2026-05-28T16:33:14.714571+00:00",
+  "generated_at": "2026-05-29T16:21:40.300126+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/14768533",
   "repo": "ebowman/git-sweaty",

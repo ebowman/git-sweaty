@@ -41306,11 +41306,50 @@
     "elevation_gain": 188.0,
     "id": "18690487545",
     "moving_time": 7244.0,
-    "name": "KOTR26 Day 1 Warm up the legs",
+    "name": "KOTR26 Day 0 Warm up the legs",
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
     "start_date_local": "2026-05-28T15:15:34Z",
     "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-28",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18691352697",
+    "moving_time": 1398.0,
+    "name": "Evening Yoga",
+    "raw_activity_type": "Yoga",
+    "raw_type": "Yoga",
+    "start_date_local": "2026-05-28T18:27:25Z",
+    "type": "Yoga",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-29",
+    "distance": 104564.0,
+    "elevation_gain": 860.0,
+    "id": "18701085474",
+    "moving_time": 16559.0,
+    "name": "KOTR26 Day 1 - NW Provence",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-29T07:39:29Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-29",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18701363782",
+    "moving_time": 417.0,
+    "name": "Afternoon Yoga",
+    "raw_activity_type": "Yoga",
+    "raw_type": "Yoga",
+    "start_date_local": "2026-05-29T13:41:38Z",
+    "type": "Yoga",
     "year": 2026
   }
 ]
