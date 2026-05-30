@@ -41351,5 +41351,31 @@
     "start_date_local": "2026-05-29T13:41:38Z",
     "type": "Yoga",
     "year": 2026
+  },
+  {
+    "date": "2026-05-29",
+    "distance": 1065.7,
+    "elevation_gain": 0.0,
+    "id": "18704549268",
+    "moving_time": 919.0,
+    "name": "Avignon",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-05-29T17:56:59Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-30",
+    "distance": 137206.0,
+    "elevation_gain": 2250.0,
+    "id": "18716187115",
+    "moving_time": 25837.0,
+    "name": "KOTR26 Day 2 - Mont Ventoux",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-30T06:57:59Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
