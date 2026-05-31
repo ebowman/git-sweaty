@@ -41377,5 +41377,44 @@
     "start_date_local": "2026-05-30T06:57:59Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-30",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18718349984",
+    "moving_time": 1847.0,
+    "name": "Evening Yoga",
+    "raw_activity_type": "Yoga",
+    "raw_type": "Yoga",
+    "start_date_local": "2026-05-30T18:24:00Z",
+    "type": "Yoga",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-31",
+    "distance": 100872.0,
+    "elevation_gain": 789.0,
+    "id": "18726432836",
+    "moving_time": 13911.0,
+    "name": "KOTR26 - Day 3 Luberon Loop",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-31T07:07:28Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-31",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18727067745",
+    "moving_time": 626.0,
+    "name": "Lunch Yoga",
+    "raw_activity_type": "Yoga",
+    "raw_type": "Yoga",
+    "start_date_local": "2026-05-31T12:44:25Z",
+    "type": "Yoga",
+    "year": 2026
   }
 ]

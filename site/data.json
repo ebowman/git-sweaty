@@ -28646,6 +28646,33 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18716187115",
       "year": 2026
+    },
+    {
+      "date": "2026-05-30",
+      "hour": 18,
+      "name": "Evening Yoga",
+      "subtype": "Yoga",
+      "type": "Yoga",
+      "url": "https://www.strava.com/activities/18718349984",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-31",
+      "hour": 7,
+      "name": "KOTR26 - Day 3 Luberon Loop",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18726432836",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-31",
+      "hour": 12,
+      "name": "Lunch Yoga",
+      "subtype": "Yoga",
+      "type": "Yoga",
+      "url": "https://www.strava.com/activities/18727067745",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -46069,6 +46096,15 @@
           "distance": 137206.0,
           "elevation_gain": 2250.0,
           "moving_time": 25837.0
+        },
+        "2026-05-31": {
+          "activity_ids": [
+            "18726432836"
+          ],
+          "count": 1,
+          "distance": 100872.0,
+          "elevation_gain": 789.0,
+          "moving_time": 13911.0
         }
       },
       "VirtualRide": {
@@ -47245,11 +47281,29 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 417.0
+        },
+        "2026-05-30": {
+          "activity_ids": [
+            "18718349984"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1847.0
+        },
+        "2026-05-31": {
+          "activity_ids": [
+            "18727067745"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 626.0
         }
       }
     }
   },
-  "generated_at": "2026-05-30T15:32:18.934070+00:00",
+  "generated_at": "2026-05-31T15:33:40.134521+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/14768533",
   "repo": "ebowman/git-sweaty",
