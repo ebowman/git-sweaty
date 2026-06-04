@@ -28673,6 +28673,15 @@
       "type": "Yoga",
       "url": "https://www.strava.com/activities/18727067745",
       "year": 2026
+    },
+    {
+      "date": "2026-06-04",
+      "hour": 9,
+      "name": "Morning Row",
+      "subtype": "Rowing",
+      "type": "Rowing",
+      "url": "https://www.strava.com/activities/18779965208",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -46107,6 +46116,17 @@
           "moving_time": 13911.0
         }
       },
+      "Rowing": {
+        "2026-06-04": {
+          "activity_ids": [
+            "18779965208"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1209.0
+        }
+      },
       "VirtualRide": {
         "2026-01-11": {
           "activity_ids": [
@@ -47303,7 +47323,7 @@
       }
     }
   },
-  "generated_at": "2026-06-03T16:37:53.603421+00:00",
+  "generated_at": "2026-06-04T16:11:37.637946+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/14768533",
   "repo": "ebowman/git-sweaty",
