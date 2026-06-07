@@ -41429,5 +41429,44 @@
     "start_date_local": "2026-06-04T09:01:36Z",
     "type": "Rowing",
     "year": 2026
+  },
+  {
+    "date": "2026-06-06",
+    "distance": 88028.9,
+    "elevation_gain": 442.0,
+    "id": "18814542296",
+    "moving_time": 14941.0,
+    "name": "Doddle with Daniel",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-06T15:02:18Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-07",
+    "distance": 66721.8,
+    "elevation_gain": 457.0,
+    "id": "18825028865",
+    "moving_time": 9454.0,
+    "name": "Moderate Polar GC Specialist Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-07T13:19:52Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-07",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18825457938",
+    "moving_time": 415.0,
+    "name": "Afternoon Yoga",
+    "raw_activity_type": "Yoga",
+    "raw_type": "Yoga",
+    "start_date_local": "2026-06-07T16:33:29Z",
+    "type": "Yoga",
+    "year": 2026
   }
 ]

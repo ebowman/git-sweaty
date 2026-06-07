@@ -28682,6 +28682,33 @@
       "type": "Rowing",
       "url": "https://www.strava.com/activities/18779965208",
       "year": 2026
+    },
+    {
+      "date": "2026-06-06",
+      "hour": 15,
+      "name": "Doddle with Daniel",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18814542296",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-07",
+      "hour": 13,
+      "name": "Moderate Polar GC Specialist Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18825028865",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-07",
+      "hour": 16,
+      "name": "Afternoon Yoga",
+      "subtype": "Yoga",
+      "type": "Yoga",
+      "url": "https://www.strava.com/activities/18825457938",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -46114,6 +46141,24 @@
           "distance": 100872.0,
           "elevation_gain": 789.0,
           "moving_time": 13911.0
+        },
+        "2026-06-06": {
+          "activity_ids": [
+            "18814542296"
+          ],
+          "count": 1,
+          "distance": 88028.9,
+          "elevation_gain": 442.0,
+          "moving_time": 14941.0
+        },
+        "2026-06-07": {
+          "activity_ids": [
+            "18825028865"
+          ],
+          "count": 1,
+          "distance": 66721.8,
+          "elevation_gain": 457.0,
+          "moving_time": 9454.0
         }
       },
       "Rowing": {
@@ -47319,11 +47364,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 626.0
+        },
+        "2026-06-07": {
+          "activity_ids": [
+            "18825457938"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 415.0
         }
       }
     }
   },
-  "generated_at": "2026-06-05T16:03:29.410227+00:00",
+  "generated_at": "2026-06-07T15:35:44.908620+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/14768533",
   "repo": "ebowman/git-sweaty",
