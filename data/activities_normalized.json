@@ -41468,5 +41468,18 @@
     "start_date_local": "2026-06-07T16:33:29Z",
     "type": "Yoga",
     "year": 2026
+  },
+  {
+    "date": "2026-06-10",
+    "distance": 47966.7,
+    "elevation_gain": 286.0,
+    "id": "18867624160",
+    "moving_time": 6401.0,
+    "name": "Difficult Mixed GC Specialist Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-10T17:20:52Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
