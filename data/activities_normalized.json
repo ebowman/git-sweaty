@@ -41481,5 +41481,31 @@
     "start_date_local": "2026-06-10T17:20:52Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-14",
+    "distance": 24799.0,
+    "elevation_gain": 490.0,
+    "id": "18916669858",
+    "moving_time": 4102.0,
+    "name": "ROUVY - Tour of the Alps 2025 | Stage 5 - Lienz",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-06-14T13:21:31Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-14",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18916937409",
+    "moving_time": 602.0,
+    "name": "Afternoon Yoga",
+    "raw_activity_type": "Yoga",
+    "raw_type": "Yoga",
+    "start_date_local": "2026-06-14T14:37:26Z",
+    "type": "Yoga",
+    "year": 2026
   }
 ]
