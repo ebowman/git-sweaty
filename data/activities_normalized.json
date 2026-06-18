@@ -41507,5 +41507,31 @@
     "start_date_local": "2026-06-14T14:37:26Z",
     "type": "Yoga",
     "year": 2026
+  },
+  {
+    "date": "2026-06-17",
+    "distance": 71023.2,
+    "elevation_gain": 173.0,
+    "id": "18962649833",
+    "moving_time": 10035.0,
+    "name": "Moderate Polar Endurance Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-17T18:18:48Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-17",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18963517162",
+    "moving_time": 1987.0,
+    "name": "Night Yoga",
+    "raw_activity_type": "Yoga",
+    "raw_type": "Yoga",
+    "start_date_local": "2026-06-17T22:25:48Z",
+    "type": "Yoga",
+    "year": 2026
   }
 ]
