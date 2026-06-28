@@ -41676,5 +41676,18 @@
     "start_date_local": "2026-06-25T16:51:31Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-28",
+    "distance": 54763.0,
+    "elevation_gain": 256.0,
+    "id": "19098841967",
+    "moving_time": 8766.0,
+    "name": "Tour de M\u00fcggelbergen (Sauna Edition)",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-28T12:47:15Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
