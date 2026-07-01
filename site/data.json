@@ -28871,6 +28871,15 @@
       "type": "Yoga",
       "url": "https://www.strava.com/activities/19100616343",
       "year": 2026
+    },
+    {
+      "date": "2026-06-30",
+      "hour": 22,
+      "name": "Night Walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/19132355114",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -46598,6 +46607,15 @@
           "distance": 1065.7,
           "elevation_gain": 0.0,
           "moving_time": 919.0
+        },
+        "2026-06-30": {
+          "activity_ids": [
+            "19132355114"
+          ],
+          "count": 1,
+          "distance": 1002.7,
+          "elevation_gain": 0.0,
+          "moving_time": 931.0
         }
       },
       "Yoga": {
@@ -47669,7 +47687,7 @@
       }
     }
   },
-  "generated_at": "2026-06-30T15:56:07.887131+00:00",
+  "generated_at": "2026-07-01T15:55:11.605012+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/14768533",
   "repo": "ebowman/git-sweaty",
