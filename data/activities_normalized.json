@@ -41715,5 +41715,31 @@
     "start_date_local": "2026-06-30T22:30:48Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-07-02",
+    "distance": 1122.6,
+    "elevation_gain": 0.0,
+    "id": "19154977967",
+    "moving_time": 874.0,
+    "name": "City of Westminster, London",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-07-02T17:18:26Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-02",
+    "distance": 1540.3,
+    "elevation_gain": 0.0,
+    "id": "19154978926",
+    "moving_time": 1279.0,
+    "name": "City of Westminster, London",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-07-02T19:40:19Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
