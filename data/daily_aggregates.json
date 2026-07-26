@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T15:27:11.227324+00:00",
+  "generated_at": "2026-07-26T15:27:44.722108+00:00",
   "years": {
     "2017": {
       "StairStepper": {
@@ -17744,6 +17744,16 @@
           "distance": 2662.8999999999996,
           "elevation_gain": 0.0,
           "moving_time": 2153.0
+        },
+        "2026-07-25": {
+          "activity_ids": [
+            "19464260326",
+            "19464260350"
+          ],
+          "count": 2,
+          "distance": 2684.3,
+          "elevation_gain": 7.0,
+          "moving_time": 2541.0
         }
       },
       "Yoga": {
