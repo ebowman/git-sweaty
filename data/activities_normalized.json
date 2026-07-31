@@ -41767,5 +41767,44 @@
     "start_date_local": "2026-07-25T15:54:57Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-07-31",
+    "distance": 16637.3,
+    "elevation_gain": 123.0,
+    "id": "19539560993",
+    "moving_time": 2503.0,
+    "name": "Easy Mixed Climber Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-31T09:10:35Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-31",
+    "distance": 29922.5,
+    "elevation_gain": 250.0,
+    "id": "19540657308",
+    "moving_time": 5567.0,
+    "name": "Moderate Polar Endurance Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-31T10:08:33Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-31",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19541080333",
+    "moving_time": 467.0,
+    "name": "Lunch Yoga",
+    "raw_activity_type": "Yoga",
+    "raw_type": "Yoga",
+    "start_date_local": "2026-07-31T12:13:39Z",
+    "type": "Yoga",
+    "year": 2026
   }
 ]
