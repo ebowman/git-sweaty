@@ -28943,6 +28943,24 @@
       "type": "Yoga",
       "url": "https://www.strava.com/activities/19541080333",
       "year": 2026
+    },
+    {
+      "date": "2026-08-01",
+      "hour": 9,
+      "name": "Moderate Polar Climber Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19554612386",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-01",
+      "hour": 13,
+      "name": "Afternoon Yoga",
+      "subtype": "Yoga",
+      "type": "Yoga",
+      "url": "https://www.strava.com/activities/19555160725",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -46470,6 +46488,15 @@
           "distance": 46559.8,
           "elevation_gain": 373.0,
           "moving_time": 8070.0
+        },
+        "2026-08-01": {
+          "activity_ids": [
+            "19554612386"
+          ],
+          "count": 1,
+          "distance": 72641.9,
+          "elevation_gain": 524.0,
+          "moving_time": 10447.0
         }
       },
       "Rowing": {
@@ -47785,11 +47812,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 467.0
+        },
+        "2026-08-01": {
+          "activity_ids": [
+            "19555160725"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 764.0
         }
       }
     }
   },
-  "generated_at": "2026-07-31T15:46:02.920067+00:00",
+  "generated_at": "2026-08-01T15:26:22.066829+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/14768533",
   "repo": "ebowman/git-sweaty",
