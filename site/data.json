@@ -28961,6 +28961,24 @@
       "type": "Yoga",
       "url": "https://www.strava.com/activities/19555160725",
       "year": 2026
+    },
+    {
+      "date": "2026-08-03",
+      "hour": 10,
+      "name": "Moderate Mixed GC Specialist Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19582100136",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-03",
+      "hour": 13,
+      "name": "Afternoon Yoga",
+      "subtype": "Yoga",
+      "type": "Yoga",
+      "url": "https://www.strava.com/activities/19582844851",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -46497,6 +46515,15 @@
           "distance": 72641.9,
           "elevation_gain": 524.0,
           "moving_time": 10447.0
+        },
+        "2026-08-03": {
+          "activity_ids": [
+            "19582100136"
+          ],
+          "count": 1,
+          "distance": 32479.1,
+          "elevation_gain": 602.0,
+          "moving_time": 6989.0
         }
       },
       "Rowing": {
@@ -47821,11 +47848,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 764.0
+        },
+        "2026-08-03": {
+          "activity_ids": [
+            "19582844851"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 683.0
         }
       }
     }
   },
-  "generated_at": "2026-08-02T15:26:49.967864+00:00",
+  "generated_at": "2026-08-03T15:55:08.402797+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/14768533",
   "repo": "ebowman/git-sweaty",
