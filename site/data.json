@@ -28979,6 +28979,33 @@
       "type": "Yoga",
       "url": "https://www.strava.com/activities/19582844851",
       "year": 2026
+    },
+    {
+      "date": "2026-08-04",
+      "hour": 8,
+      "name": "Morning Yoga",
+      "subtype": "Yoga",
+      "type": "Yoga",
+      "url": "https://www.strava.com/activities/19593487835",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-04",
+      "hour": 7,
+      "name": "Easy Mixed GC Specialist Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19593672838",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-04",
+      "hour": 7,
+      "name": "Co. Dublin / Dublin 13",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19598845147",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -46524,6 +46551,16 @@
           "distance": 32479.1,
           "elevation_gain": 602.0,
           "moving_time": 6989.0
+        },
+        "2026-08-04": {
+          "activity_ids": [
+            "19593672838",
+            "19598845147"
+          ],
+          "count": 2,
+          "distance": 19186.9,
+          "elevation_gain": 241.3,
+          "moving_time": 3183.0
         }
       },
       "Rowing": {
@@ -47857,11 +47894,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 683.0
+        },
+        "2026-08-04": {
+          "activity_ids": [
+            "19593487835"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 547.0
         }
       }
     }
   },
-  "generated_at": "2026-08-03T15:55:08.402797+00:00",
+  "generated_at": "2026-08-04T15:51:20.020490+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/14768533",
   "repo": "ebowman/git-sweaty",

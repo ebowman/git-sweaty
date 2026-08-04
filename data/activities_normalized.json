@@ -41858,5 +41858,44 @@
     "start_date_local": "2026-08-03T13:56:54Z",
     "type": "Yoga",
     "year": 2026
+  },
+  {
+    "date": "2026-08-04",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19593487835",
+    "moving_time": 547.0,
+    "name": "Morning Yoga",
+    "raw_activity_type": "Yoga",
+    "raw_type": "Yoga",
+    "start_date_local": "2026-08-04T08:32:50Z",
+    "type": "Yoga",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-04",
+    "distance": 13173.6,
+    "elevation_gain": 200.0,
+    "id": "19593672838",
+    "moving_time": 2281.0,
+    "name": "Easy Mixed GC Specialist Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-04T07:32:09Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-04",
+    "distance": 6013.3,
+    "elevation_gain": 41.3,
+    "id": "19598845147",
+    "moving_time": 902.0,
+    "name": "Co. Dublin / Dublin 13",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-04T07:34:23Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
