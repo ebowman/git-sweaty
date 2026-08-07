@@ -41897,5 +41897,31 @@
     "start_date_local": "2026-08-04T07:34:23Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-08-06",
+    "distance": 28716.8,
+    "elevation_gain": 527.0,
+    "id": "19630999735",
+    "moving_time": 5026.0,
+    "name": "Moderate Mixed Rouleur Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-06T17:59:16Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-06",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19631978759",
+    "moving_time": 600.0,
+    "name": "Evening Yoga",
+    "raw_activity_type": "Yoga",
+    "raw_type": "Yoga",
+    "start_date_local": "2026-08-06T20:13:45Z",
+    "type": "Yoga",
+    "year": 2026
   }
 ]
