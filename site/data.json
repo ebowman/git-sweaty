@@ -29042,6 +29042,24 @@
       "type": "Yoga",
       "url": "https://www.strava.com/activities/19645296843",
       "year": 2026
+    },
+    {
+      "date": "2026-08-09",
+      "hour": 11,
+      "name": "That was a wet one in Donegal",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19668349084",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-09",
+      "hour": 14,
+      "name": "Afternoon Yoga",
+      "subtype": "Yoga",
+      "type": "Yoga",
+      "url": "https://www.strava.com/activities/19668713313",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -46615,6 +46633,15 @@
           "distance": 44345.7,
           "elevation_gain": 226.0,
           "moving_time": 6368.0
+        },
+        "2026-08-09": {
+          "activity_ids": [
+            "19668349084"
+          ],
+          "count": 1,
+          "distance": 36338.7,
+          "elevation_gain": 584.0,
+          "moving_time": 6174.0
         }
       },
       "Rowing": {
@@ -47975,11 +48002,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 621.0
+        },
+        "2026-08-09": {
+          "activity_ids": [
+            "19668713313"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 309.0
         }
       }
     }
   },
-  "generated_at": "2026-08-08T15:10:21.784029+00:00",
+  "generated_at": "2026-08-09T15:11:17.606699+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/14768533",
   "repo": "ebowman/git-sweaty",
