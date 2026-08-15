@@ -41975,5 +41975,44 @@
     "start_date_local": "2026-08-09T14:26:59Z",
     "type": "Yoga",
     "year": 2026
+  },
+  {
+    "date": "2026-08-14",
+    "distance": 43151.3,
+    "elevation_gain": 275.0,
+    "id": "19742571180",
+    "moving_time": 6004.0,
+    "name": "Moderate Mixed Breakaway Specialist Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-14T18:02:25Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-14",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19742769746",
+    "moving_time": 429.0,
+    "name": "Evening Yoga",
+    "raw_activity_type": "Yoga",
+    "raw_type": "Yoga",
+    "start_date_local": "2026-08-14T20:03:10Z",
+    "type": "Yoga",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-15",
+    "distance": 18601.8,
+    "elevation_gain": 388.0,
+    "id": "19754009605",
+    "moving_time": 3383.0,
+    "name": "Moderate Mixed Rouleur Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-15T14:56:10Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
