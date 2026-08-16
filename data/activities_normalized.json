@@ -42008,11 +42008,37 @@
     "elevation_gain": 388.0,
     "id": "19754009605",
     "moving_time": 3383.0,
-    "name": "Moderate Mixed Rouleur Ride",
+    "name": "Hangover Therapy",
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
     "start_date_local": "2026-08-15T14:56:10Z",
     "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-15",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19754282650",
+    "moving_time": 454.0,
+    "name": "Afternoon Yoga",
+    "raw_activity_type": "Yoga",
+    "raw_type": "Yoga",
+    "start_date_local": "2026-08-15T16:03:25Z",
+    "type": "Yoga",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-15",
+    "distance": 1927.9,
+    "elevation_gain": 80.6,
+    "id": "19757130292",
+    "moving_time": 1606.0,
+    "name": "Evening Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-08-15T19:45:34Z",
+    "type": "Walk",
     "year": 2026
   }
 ]
