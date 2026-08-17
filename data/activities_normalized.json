@@ -42040,5 +42040,31 @@
     "start_date_local": "2026-08-15T19:45:34Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-08-17",
+    "distance": 43450.0,
+    "elevation_gain": 265.0,
+    "id": "19776283291",
+    "moving_time": 7042.0,
+    "name": "Moderate Polar GC Specialist Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-17T07:38:02Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-17",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19776564195",
+    "moving_time": 646.0,
+    "name": "Morning Yoga",
+    "raw_activity_type": "Yoga",
+    "raw_type": "Yoga",
+    "start_date_local": "2026-08-17T09:59:38Z",
+    "type": "Yoga",
+    "year": 2026
   }
 ]
