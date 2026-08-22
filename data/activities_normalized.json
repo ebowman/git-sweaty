@@ -42092,5 +42092,31 @@
     "start_date_local": "2026-08-21T09:24:42Z",
     "type": "Yoga",
     "year": 2026
+  },
+  {
+    "date": "2026-08-22",
+    "distance": 24707.8,
+    "elevation_gain": 378.0,
+    "id": "19848193257",
+    "moving_time": 3841.0,
+    "name": "Moderate Mixed GC Specialist Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-22T10:18:30Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-22",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19848544290",
+    "moving_time": 576.0,
+    "name": "Lunch Yoga",
+    "raw_activity_type": "Yoga",
+    "raw_type": "Yoga",
+    "start_date_local": "2026-08-22T11:40:22Z",
+    "type": "Yoga",
+    "year": 2026
   }
 ]
