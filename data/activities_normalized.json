@@ -42157,5 +42157,31 @@
     "start_date_local": "2026-08-23T14:34:16Z",
     "type": "Yoga",
     "year": 2026
+  },
+  {
+    "date": "2026-08-25",
+    "distance": 22302.2,
+    "elevation_gain": 331.0,
+    "id": "19888883216",
+    "moving_time": 3321.0,
+    "name": "Moderate Mixed Rouleur Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-25T07:47:14Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-25",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19889253643",
+    "moving_time": 568.0,
+    "name": "Morning Yoga",
+    "raw_activity_type": "Yoga",
+    "raw_type": "Yoga",
+    "start_date_local": "2026-08-25T09:02:58Z",
+    "type": "Yoga",
+    "year": 2026
   }
 ]
