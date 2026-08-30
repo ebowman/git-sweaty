@@ -29204,6 +29204,15 @@
       "type": "Yoga",
       "url": "https://www.strava.com/activities/19889253643",
       "year": 2026
+    },
+    {
+      "date": "2026-08-30",
+      "hour": 12,
+      "name": "Lunch Walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/19963459244",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -47098,6 +47107,15 @@
           "distance": 1927.9,
           "elevation_gain": 80.6,
           "moving_time": 1606.0
+        },
+        "2026-08-30": {
+          "activity_ids": [
+            "19963459244"
+          ],
+          "count": 1,
+          "distance": 4844.6,
+          "elevation_gain": 36.2,
+          "moving_time": 4858.0
         }
       },
       "Yoga": {
@@ -48295,7 +48313,7 @@
       }
     }
   },
-  "generated_at": "2026-08-29T15:12:50.204919+00:00",
+  "generated_at": "2026-08-30T15:13:13.674113+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/14768533",
   "repo": "ebowman/git-sweaty",
