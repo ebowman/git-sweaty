@@ -42274,5 +42274,31 @@
     "start_date_local": "2026-09-05T17:42:33Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-09-06",
+    "distance": 57291.4,
+    "elevation_gain": 571.0,
+    "id": "20061897825",
+    "moving_time": 9629.0,
+    "name": "Difficult Polar Climber Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-06T11:55:29Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-06",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20062532433",
+    "moving_time": 714.0,
+    "name": "Afternoon Yoga",
+    "raw_activity_type": "Yoga",
+    "raw_type": "Yoga",
+    "start_date_local": "2026-09-06T15:23:49Z",
+    "type": "Yoga",
+    "year": 2026
   }
 ]
