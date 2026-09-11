@@ -42300,5 +42300,31 @@
     "start_date_local": "2026-09-06T15:23:49Z",
     "type": "Yoga",
     "year": 2026
+  },
+  {
+    "date": "2026-09-10",
+    "distance": 1051.8,
+    "elevation_gain": 0.0,
+    "id": "20122570854",
+    "moving_time": 648.0,
+    "name": "Evening Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-09-10T18:29:18Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-11",
+    "distance": 25852.6,
+    "elevation_gain": 392.0,
+    "id": "20132934914",
+    "moving_time": 4018.0,
+    "name": "Difficult Mixed Rouleur Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-11T17:08:42Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
