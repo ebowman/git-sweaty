@@ -42456,5 +42456,44 @@
     "start_date_local": "2026-09-26T10:13:36Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-09-28",
+    "distance": 4824.2,
+    "elevation_gain": 0.0,
+    "id": "20361196485",
+    "moving_time": 1859.0,
+    "name": "v6:00/1:00r...12 row",
+    "raw_activity_type": "Rowing",
+    "raw_type": "Rowing",
+    "start_date_local": "2026-09-28T10:31:01Z",
+    "type": "Rowing",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-28",
+    "distance": 13335.9,
+    "elevation_gain": 205.7,
+    "id": "20367360454",
+    "moving_time": 2289.0,
+    "name": "Easy Mixed Climber Ride (Recovery ride, Howth style)",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-28T18:02:00Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-28",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20367831413",
+    "moving_time": 450.0,
+    "name": "Morning Yoga",
+    "raw_activity_type": "Yoga",
+    "raw_type": "Yoga",
+    "start_date_local": "2026-09-28T10:05:41Z",
+    "type": "Yoga",
+    "year": 2026
   }
 ]
