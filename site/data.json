@@ -29420,6 +29420,15 @@
       "type": "Yoga",
       "url": "https://www.strava.com/activities/20367831413",
       "year": 2026
+    },
+    {
+      "date": "2026-09-30",
+      "hour": 19,
+      "name": "v3:00/2:00r...6 row",
+      "subtype": "Rowing",
+      "type": "Rowing",
+      "url": "https://www.strava.com/activities/20396983745",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -47177,6 +47186,15 @@
           "distance": 4824.2,
           "elevation_gain": 0.0,
           "moving_time": 1859.0
+        },
+        "2026-09-30": {
+          "activity_ids": [
+            "20396983745"
+          ],
+          "count": 1,
+          "distance": 4856.5,
+          "elevation_gain": 0.0,
+          "moving_time": 1678.0
         }
       },
       "VirtualRide": {
@@ -48703,7 +48721,7 @@
       }
     }
   },
-  "generated_at": "2026-09-29T19:52:34.176781+00:00",
+  "generated_at": "2026-09-30T19:54:07.528006+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/14768533",
   "repo": "ebowman/git-sweaty",
