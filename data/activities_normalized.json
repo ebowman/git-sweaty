@@ -42508,5 +42508,18 @@
     "start_date_local": "2026-09-30T19:53:00Z",
     "type": "Rowing",
     "year": 2026
+  },
+  {
+    "date": "2026-10-01",
+    "distance": 38916.3,
+    "elevation_gain": 233.9,
+    "id": "20403411532",
+    "moving_time": 6409.0,
+    "name": "Moderate Mixed GC Specialist Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-10-01T07:28:30Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
