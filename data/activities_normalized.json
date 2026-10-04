@@ -42547,5 +42547,18 @@
     "start_date_local": "2026-10-03T15:51:08Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-10-04",
+    "distance": 495.1,
+    "elevation_gain": 0.0,
+    "id": "20446895010",
+    "moving_time": 180.0,
+    "name": "Indoor Rowing",
+    "raw_activity_type": "Rowing",
+    "raw_type": "Rowing",
+    "start_date_local": "2026-10-04T14:13:32Z",
+    "type": "Rowing",
+    "year": 2026
   }
 ]
