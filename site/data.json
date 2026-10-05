@@ -29465,6 +29465,15 @@
       "type": "Rowing",
       "url": "https://www.strava.com/activities/20446895010",
       "year": 2026
+    },
+    {
+      "date": "2026-10-05",
+      "hour": 9,
+      "name": "Indoor Rowing FTP Test",
+      "subtype": "Rowing",
+      "type": "Rowing",
+      "url": "https://www.strava.com/activities/20457010648",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -47267,6 +47276,15 @@
           "distance": 495.1,
           "elevation_gain": 0.0,
           "moving_time": 180.0
+        },
+        "2026-10-05": {
+          "activity_ids": [
+            "20457010648"
+          ],
+          "count": 1,
+          "distance": 7880.5,
+          "elevation_gain": 0.0,
+          "moving_time": 2100.0
         }
       },
       "VirtualRide": {
@@ -48793,7 +48811,7 @@
       }
     }
   },
-  "generated_at": "2026-10-04T18:34:14.931451+00:00",
+  "generated_at": "2026-10-05T21:54:13.368221+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/14768533",
   "repo": "ebowman/git-sweaty",
