@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T20:02:21.555975+00:00",
+  "generated_at": "2026-10-10T19:11:04.315701+00:00",
   "years": {
     "2017": {
       "StairStepper": {
@@ -17753,6 +17753,15 @@
           "distance": 42093.6,
           "elevation_gain": 0.0,
           "moving_time": 5653.0
+        },
+        "2026-10-10": {
+          "activity_ids": [
+            "20530110193"
+          ],
+          "count": 1,
+          "distance": 62199.0,
+          "elevation_gain": 541.8,
+          "moving_time": 10213.0
         }
       },
       "Rowing": {
@@ -17942,6 +17951,17 @@
           "distance": 24799.0,
           "elevation_gain": 490.0,
           "moving_time": 4102.0
+        }
+      },
+      "VirtualRow": {
+        "2026-10-10": {
+          "activity_ids": [
+            "20526097921"
+          ],
+          "count": 1,
+          "distance": 12542.4,
+          "elevation_gain": 0.0,
+          "moving_time": 3595.0
         }
       },
       "Walk": {
@@ -19351,6 +19371,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 450.0
+        },
+        "2026-10-10": {
+          "activity_ids": [
+            "20531729463"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 708.0
         }
       }
     }
