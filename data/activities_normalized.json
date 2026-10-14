@@ -42742,5 +42742,31 @@
     "start_date_local": "2026-10-13T16:15:38Z",
     "type": "Yoga",
     "year": 2026
+  },
+  {
+    "date": "2026-10-14",
+    "distance": 12902.0,
+    "elevation_gain": 0.0,
+    "id": "20581041594",
+    "moving_time": 3597.0,
+    "name": "PZ Endurance 60",
+    "raw_activity_type": "Rowing",
+    "raw_type": "VirtualRow",
+    "start_date_local": "2026-10-14T12:18:40Z",
+    "type": "VirtualRow",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-14",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20581258144",
+    "moving_time": 649.0,
+    "name": "Afternoon Yoga",
+    "raw_activity_type": "Yoga",
+    "raw_type": "Yoga",
+    "start_date_local": "2026-10-14T13:23:46Z",
+    "type": "Yoga",
+    "year": 2026
   }
 ]
