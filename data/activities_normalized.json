@@ -42768,5 +42768,31 @@
     "start_date_local": "2026-10-14T13:23:46Z",
     "type": "Yoga",
     "year": 2026
+  },
+  {
+    "date": "2026-10-15",
+    "distance": 9449.0,
+    "elevation_gain": 0.0,
+    "id": "20591808170",
+    "moving_time": 2699.0,
+    "name": "Sweet spot 3\u00d79",
+    "raw_activity_type": "Rowing",
+    "raw_type": "VirtualRow",
+    "start_date_local": "2026-10-15T07:29:56Z",
+    "type": "VirtualRow",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-15",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20591908390",
+    "moving_time": 610.0,
+    "name": "Morning Yoga",
+    "raw_activity_type": "Yoga",
+    "raw_type": "Yoga",
+    "start_date_local": "2026-10-15T08:19:31Z",
+    "type": "Yoga",
+    "year": 2026
   }
 ]
